@@ -1,0 +1,55 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About"
+pageRef = "/about"
+identifier = "ZsZOuvAcPO"
+weight = 1
+
+[[main]]
+name = "Blog"
+pageRef = "/posts"
+identifier = "M65aSqWxzz"
+weight = 2
+
+[[main]]
+name = "Projects"
+pageRef = "/projects"
+identifier = "WVOjONkwdt"
+weight = 3
+
+[[main]]
+pre = "link"
+name = "Resume"
+url = "https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link"
+identifier = "SzfrNuNCmZ"
+weight = 4
+
+[[main]]
+pre = "github"
+url = "https://github.com/utrodus"
+identifier = "a2y3RYhNGO"
+weight = 100
+
+[[main]]
+pre = "linkedin"
+url = "https://www.linkedin.com/in/utrodus-said/"
+identifier = "ghzZP893da"
+weight = 200
+
+[[main]]
+pre = "instagram"
+url = "https://www.instagram.com/utrodus/"
+identifier = "J47qANphaQ"
+weight = 300
+
+[[main]]
+pre = "youtube"
+url = "https://www.youtube.com/@utrodus"
+identifier = "Gbd5rZjSjf"
+weight = 400
+
+
+[[footer]]
+none = "none"

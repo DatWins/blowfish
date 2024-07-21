@@ -1,0 +1,15 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Utrodus Said"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "utrodus.com.png"
+
+[author]
+image = "utrodus_w8ad5s.webp"
+name = "Utrodus Said Al Baqi"
