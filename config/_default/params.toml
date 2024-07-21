@@ -17,14 +17,15 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts"
-cardView = false
-cardViewScreenWidth = true
-layoutBackgroundBlur = false
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+homepageImage = "background.png"
 
 [article]
 showDate = true
