@@ -9,7 +9,7 @@
 
             <img src="{{ $logo.RelPermalink }}" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}"
                 class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="{{ .Site.Title }}" style="padding: 0.3rem 0;
-    max-width: 3rem;" />
+    max-width: 2.7rem;" />
 
         </a>
     </div>
@@ -19,7 +19,7 @@
         <nav class="flex space-x-3">
 
             {{ if not .Site.Params.disableTextInHeader | default true }}
-            <a href="{{ "" | relLangURL }}" class="text-base font-medium text-gray-500 hover:text-gray-900">{{
+            <a href="{{ "" | relLangURL }}" class="text-lg font-bold text-gray-500 hover:text-gray-900 site-title">{{
                 .Site.Title | markdownify
                 }}</a>
             {{ end }}
@@ -169,11 +169,15 @@
 {{ if .Site.Params.highlightCurrentMenuArea }}
 <script>
     (function () {
+        
         var $mainmenu = $('.main-menu');
         var path = window.location.pathname;
+        if (path === '/') {
+            $mainmenu.find('.site-title').addClass('active');          
+        }
         $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
             $(e).children('p').addClass('active');
-        });
+        });                
     })();
 </script>
 {{ end }}
