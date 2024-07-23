@@ -5,19 +5,19 @@ none = "none"
 name = "About"
 pageRef = "/about"
 identifier = "ZsZOuvAcPO"
-weight = 1
+weight = 3
 
 [[main]]
 name = "Blog"
 pageRef = "/posts"
 identifier = "M65aSqWxzz"
-weight = 2
+weight = 1
 
 [[main]]
 name = "Projects"
 pageRef = "/projects"
 identifier = "WVOjONkwdt"
-weight = 3
+weight = 2
 
 [[main]]
 pre = "link"
