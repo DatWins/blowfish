@@ -6,6 +6,7 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 highlightCurrentMenuArea = true
+smartTOC = true
 
 [header]
 layout = "fixed"
@@ -35,22 +36,22 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
-seriesOpened = false
+seriesOpened = true
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
+showReadingTime = false
+showTableOfContents = true
+showTaxonomies = true
 showAuthorsBadges = false
-showWordCount = true
+showWordCount = false
 showZenMode = false
 
 [list]
@@ -62,10 +63,10 @@ showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-showCards = false
+showCards = true
 orderByWeight = false
-groupByYear = true
-cardView = false
+groupByYear = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
 
