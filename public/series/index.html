@@ -30,12 +30,12 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.94ad5f8f5937afbb3616ca5c3cd91115100e3729a831227e29b87ae0b88a6034297cd9501baa0297b2530d616ae01c1cd0f37f0d9bce9df3ef793ddb835ac215.css"
-    integrity="sha512-lK1fj1k3r7s2FspcPNkRFRAONymoMSJ&#43;Kbh64LiKYDQpfNlQG6oCl7JTDWFq4Bwc0PN/DZvOnfPveT3bg1rCFQ==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.f48e27a987c485bb5ef486fc8760b7c19041c3d90d21d765ca8c2c9b8754850333a52763f5bbbef6929d71d9e636c94e7a7062ea0ad195ac2bc526639c8ff960.css"
+    integrity="sha512-9I4nqYfEhbte9Ib8h2C3wZBBw9kNIddlyowsm4dUhQMzpSdj9bu&#43;9pKdcdnmNslOenBi6grRlawrxSZjnI/5YA==" />
   
   
-  <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
-    integrity="sha512-UWoWdFvqWpvQERONJUzA/TlzzVXObhXz3sdj58fCx0SPj&#43;e1TMqBHLghsMfhLNFhyqzh3XlKw9NNQJN8vMnuEg=="></script>
+  <script type="text/javascript" src="/js/appearance.min.ba757c16d0ce13a1f4d8101f6a49b3eeb9bdd907c8c8a0830e05607dd43465a42548864471212ef28664a6e3dcb6ea5eaf9ac16ddf3a971152f9b43767ced132.js"
+    integrity="sha512-unV8FtDOE6H02BAfakmz7rm92QfIyKCDDgVgfdQ0ZaQlSIZEcSEu8oZkpuPctuper5rBbd86lxFS&#43;bQ3Z87RMg=="></script>
   
   
   
@@ -136,10 +136,10 @@
     
     <div>
         <a href="/" class="flex">
-            <span class="sr-only">Utrodus Said</span>
+            <span class="sr-only logo">Utrodus Said</span>
 
-            <img src="/utrodus_logo.png" width="256" height="256"
-                class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Utrodus Said" style="padding: 0.3rem 0;
+            <img src="/utrodus_logo_dark.png" width="241" height="241"
+                class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Utrodus Said" style="padding: 0.5rem 0;
     max-width: 2.7rem;" />
 
         </a>
@@ -149,7 +149,7 @@
         <nav class="flex space-x-3">
 
             
-            <a href="/" class="text-lg font-bold text-gray-500 hover:text-gray-900 site-title">Utrodus Said</a>
+            <a href="/" class="text-lg font-bold text-gray-500 hover:text-gray-900 logo">Utrodus Said</a>
             
 
         </nav>
@@ -169,10 +169,10 @@
 
             
             
-  <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/portfolio/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
-        Projects
+        Portfolio
     </p>
 </a>
 
@@ -461,10 +461,10 @@
 
                     
   <li class="mt-1">
-    <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/portfolio/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            Projects
+            Portfolio
         </p>
     </a>
 </li>
@@ -650,10 +650,7 @@
     (function () {
         
         var $mainmenu = $('.main-menu');
-        var path = window.location.pathname;
-        if (path === '/') {
-            $mainmenu.find('.site-title').addClass('active');          
-        }
+        var path = window.location.pathname;      
         $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
             $(e).children('p').addClass('active');
         });                

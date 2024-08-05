@@ -28,12 +28,12 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.94ad5f8f5937afbb3616ca5c3cd91115100e3729a831227e29b87ae0b88a6034297cd9501baa0297b2530d616ae01c1cd0f37f0d9bce9df3ef793ddb835ac215.css"
-    integrity="sha512-lK1fj1k3r7s2FspcPNkRFRAONymoMSJ&#43;Kbh64LiKYDQpfNlQG6oCl7JTDWFq4Bwc0PN/DZvOnfPveT3bg1rCFQ==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.db94c3bf7cdc08035d7bd934e9c7d776bc9cc05789cec6cc049872152fa128d32e49b20e35ae0abdbfa5546206bd84dc8796d40831a80744aafb72fdb5a7870d.css"
+    integrity="sha512-25TDv3zcCANde9k06cfXdrycwFeJzsbMBJhyFS&#43;hKNMuSbIONa4Kvb&#43;lVGIGvYTch5bUCDGoB0Sq&#43;3L9taeHDQ==" />
   
   
-  <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
-    integrity="sha512-UWoWdFvqWpvQERONJUzA/TlzzVXObhXz3sdj58fCx0SPj&#43;e1TMqBHLghsMfhLNFhyqzh3XlKw9NNQJN8vMnuEg=="></script>
+  <script type="text/javascript" src="/js/appearance.min.ba757c16d0ce13a1f4d8101f6a49b3eeb9bdd907c8c8a0830e05607dd43465a42548864471212ef28664a6e3dcb6ea5eaf9ac16ddf3a971152f9b43767ced132.js"
+    integrity="sha512-unV8FtDOE6H02BAfakmz7rm92QfIyKCDDgVgfdQ0ZaQlSIZEcSEu8oZkpuPctuper5rBbd86lxFS&#43;bQ3Z87RMg=="></script>
   
   
   
@@ -99,7 +99,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "400"
+    "wordCount": "392"
   }]
   </script>
 
@@ -163,10 +163,10 @@
     
     <div>
         <a href="/" class="flex">
-            <span class="sr-only">Utrodus Said</span>
+            <span class="sr-only logo">Utrodus Said</span>
 
-            <img src="/utrodus_logo.png" width="256" height="256"
-                class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Utrodus Said" style="padding: 0.3rem 0;
+            <img src="/utrodus_logo_dark.png" width="241" height="241"
+                class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Utrodus Said" style="padding: 0.5rem 0;
     max-width: 2.7rem;" />
 
         </a>
@@ -176,7 +176,7 @@
         <nav class="flex space-x-3">
 
             
-            <a href="/" class="text-lg font-bold text-gray-500 hover:text-gray-900 site-title">Utrodus Said</a>
+            <a href="/" class="text-lg text-gray-500 hover:text-gray-900 logo">Utrodus Said</a>
             
 
         </nav>
@@ -196,10 +196,10 @@
 
             
             
-  <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/portfolio/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
-        Projects
+        Portfolio
     </p>
 </a>
 
@@ -488,10 +488,10 @@
 
                     
   <li class="mt-1">
-    <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/portfolio/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            Projects
+            Portfolio
         </p>
     </a>
 </li>
@@ -677,10 +677,7 @@
     (function () {
         
         var $mainmenu = $('.main-menu');
-        var path = window.location.pathname;
-        if (path === '/') {
-            $mainmenu.find('.site-title').addClass('active');          
-        }
+        var path = window.location.pathname;      
         $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
             $(e).children('p').addClass('active');
         });                
@@ -706,8 +703,43 @@
 
 <article>
   
+  
+  
+  
+  
+  
+ 
+
+  
+  
 
   <header id="single_header" class="mt-5 max-w-prose">
+    
+    <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+  
+  
+    
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/"
+      >Utrodus Said</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/about/"
+      >About</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+</ol>
+
+
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
       About
@@ -758,6 +790,26 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
 
 
     </div>
@@ -798,6 +850,8 @@
       Utrodus Said Al Baqi
     </div>
     
+    
+    <div class="text-sm text-neutral-700 dark:text-neutral-400">Software Engineer Specializing in Multiplatform Apps with Dart And Flutter</div>
     
     <div class="text-2xl sm:text-lg">
 </div>
@@ -891,6 +945,44 @@
 
 
 
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = decodeURIComponent(e.attr('id'));
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+          
+            $(e).removeClass('active');
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+        
+        onScroll();
+      });
+    }
+  })();
+
+
 </script>
    </div>
       </div>
@@ -914,7 +1006,7 @@
     </span>        
     
 </h2>
-<p>Hello 👋 , I’m <strong>Utrodus Said Al Baqi</strong>. As a software engineer, I am proficient in <strong>Dart</strong> and highly skilled in the <strong>Flutter framework</strong>. I specialize in developing beautiful, user-friendly multiplatform applications for <strong>Android, iOS, and the Web</strong>. My unique blend of technical expertise and design skills ensures that every project is both functional and visually stunning.</p>
+<p>Hello 👋 , I’m <strong>Utrodus Said Al Baqi</strong>. As a software engineer, I am proficient in <strong>Dart</strong> and <strong>Flutter</strong>. I specialize in developing beautiful, user-friendly multiplatform applications for <strong>Android, iOS, and the Web</strong>. My unique blend of technical expertise and design skills ensures that every project is both functional and visually stunning.</p>
 <p>I prefer to work <strong>remotely</strong> 👨‍💻 rather than commuting to an office. Therefore, I will continue working remotely, whether <strong>full-time</strong> or <strong>freelancing</strong>.</p>
 
 
@@ -930,7 +1022,8 @@
 </h2>
 <ul>
 <li>🔭 Currently engaged in Multiplatform App Development, I am working on projects that span Android, iOS, and Web.</li>
-<li>🌱 My ongoing learning journey includes delving deeper into Dart for backend and Laravel. 🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of Multiplatform App Development.</li>
+<li>🌱 My ongoing learning journey includes delving deeper into Backend Development.</li>
+<li>🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of Multiplatform App Development.</li>
 <li>🗿 Fun Fact: As an early adopter of Flutter, I have been exploring its capabilities for over three years.</li>
 </ul>
 

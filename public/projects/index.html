@@ -8,8 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title> &middot; Utrodus Said</title>
-  <meta name="title" content=" &middot; Utrodus Said" />
+  <title>Projects &middot; Utrodus Said</title>
+  <meta name="title" content="Projects &middot; Utrodus Said" />
   
   
   
@@ -30,12 +30,12 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.94ad5f8f5937afbb3616ca5c3cd91115100e3729a831227e29b87ae0b88a6034297cd9501baa0297b2530d616ae01c1cd0f37f0d9bce9df3ef793ddb835ac215.css"
-    integrity="sha512-lK1fj1k3r7s2FspcPNkRFRAONymoMSJ&#43;Kbh64LiKYDQpfNlQG6oCl7JTDWFq4Bwc0PN/DZvOnfPveT3bg1rCFQ==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.f48e27a987c485bb5ef486fc8760b7c19041c3d90d21d765ca8c2c9b8754850333a52763f5bbbef6929d71d9e636c94e7a7062ea0ad195ac2bc526639c8ff960.css"
+    integrity="sha512-9I4nqYfEhbte9Ib8h2C3wZBBw9kNIddlyowsm4dUhQMzpSdj9bu&#43;9pKdcdnmNslOenBi6grRlawrxSZjnI/5YA==" />
   
   
-  <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
-    integrity="sha512-UWoWdFvqWpvQERONJUzA/TlzzVXObhXz3sdj58fCx0SPj&#43;e1TMqBHLghsMfhLNFhyqzh3XlKw9NNQJN8vMnuEg=="></script>
+  <script type="text/javascript" src="/js/appearance.min.ba757c16d0ce13a1f4d8101f6a49b3eeb9bdd907c8c8a0830e05607dd43465a42548864471212ef28664a6e3dcb6ea5eaf9ac16ddf3a971152f9b43767ced132.js"
+    integrity="sha512-unV8FtDOE6H02BAfakmz7rm92QfIyKCDDgVgfdQ0ZaQlSIZEcSEu8oZkpuPctuper5rBbd86lxFS&#43;bQ3Z87RMg=="></script>
   
   
   
@@ -66,15 +66,13 @@
   
   <meta property="og:url" content="http://localhost:1313/projects/">
   <meta property="og:site_name" content="Utrodus Said">
-  <meta property="og:title" content="Utrodus Said">
-  <meta property="og:description" content="my projects #">
+  <meta property="og:title" content="Projects">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Utrodus Said">
-  <meta name="twitter:description" content="my projects #">
+  <meta name="twitter:title" content="Projects">
 
   
   
@@ -138,10 +136,10 @@
     
     <div>
         <a href="/" class="flex">
-            <span class="sr-only">Utrodus Said</span>
+            <span class="sr-only logo">Utrodus Said</span>
 
-            <img src="/utrodus_logo.png" width="256" height="256"
-                class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Utrodus Said" style="padding: 0.3rem 0;
+            <img src="/utrodus_logo_dark.png" width="241" height="241"
+                class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Utrodus Said" style="padding: 0.5rem 0;
     max-width: 2.7rem;" />
 
         </a>
@@ -151,7 +149,7 @@
         <nav class="flex space-x-3">
 
             
-            <a href="/" class="text-lg font-bold text-gray-500 hover:text-gray-900 site-title">Utrodus Said</a>
+            <a href="/" class="text-lg font-bold text-gray-500 hover:text-gray-900 logo">Utrodus Said</a>
             
 
         </nav>
@@ -171,10 +169,10 @@
 
             
             
-  <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/portfolio/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
-        Projects
+        Portfolio
     </p>
 </a>
 
@@ -463,10 +461,10 @@
 
                     
   <li class="mt-1">
-    <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/portfolio/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            Projects
+            Portfolio
         </p>
     </a>
 </li>
@@ -652,10 +650,7 @@
     (function () {
         
         var $mainmenu = $('.main-menu');
-        var path = window.location.pathname;
-        if (path === '/') {
-            $mainmenu.find('.site-title').addClass('active');          
-        }
+        var path = window.location.pathname;      
         $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
             $(e).children('p').addClass('active');
         });                
@@ -679,11 +674,13 @@
       
 
 
- <header>
-  
-  <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral"></h1>
-  <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+ 
+
+  <header>
     
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">Projects</h1>
+    <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+      
 
 
 
@@ -711,63 +708,77 @@
 </div>
 
 
-  </div>
+    </div>
+  </header>
   
-  
-    
-    
-      
-      
-    
   <script>
-    var oid = "views_projects\\_index.md"
-    var oid_likes = "likes_projects\\_index.md"
+    var oid = "views_taxonomy_projects"
+    var oid_likes = "likes_taxonomy_projects"
   </script>
   
   
-  
   <script type="text/javascript" src="/js/page.min.0860cf4e04fa2d72cc33ddba263083464d48f67de06114529043cb4623319efed4f484fd7f1730df5abea0e2da6f3538855634081d02f2d6e920b956f063e823.js" integrity="sha512-CGDPTgT6LXLMM926JjCDRk1I9n3gYRRSkEPLRiMxnv7U9IT9fxcw31q&#43;oOLabzU4hVY0CB0C8tbpILlW8GPoIw=="></script>
-  </header>
-  <section class="mt-0 prose flex max-w-full flex-col dark:prose-invert lg:flex-row">
+  
+
+  
+
+  <section class="flex flex-wrap max-w-prose -mx-2 overflow-hidden">
     
-    <div class="min-w-0 min-h-0 max-w-prose">
+      <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+    <h2 class="flex items-center">
+      <a
+        class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+        href="/projects/android/"
+        >Android</a
+      >
       
-
-<h1 class="relative group">my projects 
-    <div id="my-projects" class="anchor"></div>
+        <span class="px-2 text-base text-primary-500">&middot;</span>
+        <span class="text-base text-neutral-400">
+          1
+        </span>
+      
+    </h2>
+  </article>
     
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#my-projects" aria-label="Anchor">#</a>
-    </span>        
+      <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+    <h2 class="flex items-center">
+      <a
+        class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+        href="/projects/flutter/"
+        >Flutter</a
+      >
+      
+        <span class="px-2 text-base text-primary-500">&middot;</span>
+        <span class="text-base text-neutral-400">
+          1
+        </span>
+      
+    </h2>
+  </article>
     
-</h1>
-
-    </div>
-
-
-
-
+      <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+    <h2 class="flex items-center">
+      <a
+        class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+        href="/projects/mobile-apps/"
+        >Mobile Apps</a
+      >
+      
+        <span class="px-2 text-base text-primary-500">&middot;</span>
+        <span class="text-base text-neutral-400">
+          1
+        </span>
+      
+    </h2>
+  </article>
+    
   </section>
-  
-  <section class="mt-10 prose dark:prose-invert">
-    <p class="py-8 border-t">
-      <em>There are no articles to list here yet.</em>
-    </p>
-  </section>
-  
-
-    
 
   
-      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
-  <a href="#the-top"
-    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
-    aria-label="Scroll to top" title="Scroll to top">
-    &uarr;
-  </a>
-</div>
+
+
+
+      
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
