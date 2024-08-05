@@ -5,10 +5,10 @@
     {{ if $logo }}
     <div>
         <a href="{{ "" | relLangURL }}" class="flex">
-            <span class="sr-only">{{ .Site.Title | markdownify }}</span>
+            <span class="sr-only logo">{{ .Site.Title | markdownify }}</span>
 
             <img src="{{ $logo.RelPermalink }}" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}"
-                class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="{{ .Site.Title }}" style="padding: 0.3rem 0;
+                class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="{{ .Site.Title }}" style="padding: 0.5rem 0;
     max-width: 2.7rem;" />
 
         </a>
@@ -19,7 +19,7 @@
         <nav class="flex space-x-3">
 
             {{ if not .Site.Params.disableTextInHeader | default true }}
-            <a href="{{ "" | relLangURL }}" class="text-lg font-bold text-gray-500 hover:text-gray-900 site-title">{{
+            <a href="{{ "" | relLangURL }}" class="text-lg text-gray-500 hover:text-gray-900 logo">{{
                 .Site.Title | markdownify
                 }}</a>
             {{ end }}
@@ -171,10 +171,7 @@
     (function () {
         
         var $mainmenu = $('.main-menu');
-        var path = window.location.pathname;
-        if (path === '/') {
-            $mainmenu.find('.site-title').addClass('active');          
-        }
+        var path = window.location.pathname;      
         $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
             $(e).children('p').addClass('active');
         });                

@@ -1,7 +1,25 @@
-.active {
+.logo {
     background: linear-gradient(45deg, #ff7070 10%, #f13dd4 50%, #933fff 90%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-weight: bolder;
+    font-weight: 800;
+}
+
+.active {
+    font-weight: 600;
+    color: #ad8aff;
+    text-underline-offset: 10px;
+}
+#TableOfContents ul li a{
+    font-weight: 400;
+}
+#TableOfContents ul li a.active{
+    font-weight: 500;
+    text-decoration: none;
+    color: #cb90ff;
+}
+
+.toc a:is(.dark *) {    
+    color: white;
 }
