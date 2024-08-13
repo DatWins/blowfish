@@ -2,11 +2,13 @@ colorScheme = "congo"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 highlightCurrentMenuArea = true
 smartTOC = true
+defaultBackgroundImage = "background.png"
+
 
 [header]
 layout = "fixed"
@@ -20,14 +22,15 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
+layoutBackgroundHeaderSpace = true
+homepageImage = "background.png"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = true
-homepageImage = "background.png"
+layoutBackgroundBlur = false
 
 [article]
 showDate = true
@@ -37,8 +40,9 @@ showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
 showHero = true
+heroStyle = "background" 
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
@@ -55,9 +59,10 @@ showWordCount = false
 showZenMode = false
 
 [list]
-showHero = false
+showHero = true
+heroStyle = "background" 
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
 showSummary = false
 showViews = false
