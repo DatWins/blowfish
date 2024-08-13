@@ -1,4 +1,10 @@
 [[main]]
+name = "Tentang"
+pageRef = "/about"
+identifier = "ZsZOuvAcPO"
+weight = 3
+
+[[main]]
 name = "Blog"
 pageRef = "/posts"
 identifier = "M65aSqWxzz"
@@ -11,12 +17,6 @@ identifier = "WVOjONkwdt"
 weight = 2
 
 [[main]]
-name = "About"
-pageRef = "/about"
-identifier = "ZsZOuvAcPO"
-weight = 3
-
-[[main]]
 pre = "link"
 name = "Resume"
 url = "https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link"
@@ -27,14 +27,18 @@ weight = 4
 pre = "github"
 url = "https://github.com/utrodus"
 identifier = "a2y3RYhNGO"
-weight = 5
+weight = 100
 
 [[main]]
 pre = "linkedin"
 url = "https://www.linkedin.com/in/utrodus-said/"
 identifier = "ghzZP893da"
-weight = 6
+weight = 200
+
+
+
 
 
 [[footer]]
 none = "none"
+
