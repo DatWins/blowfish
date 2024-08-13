@@ -7,8 +7,7 @@
 }
 
 .active {
-    font-weight: 600;
-    color: #ad8aff;
+    font-weight: 600;    
     text-underline-offset: 10px;
 }
 #TableOfContents ul li a{
@@ -22,4 +21,7 @@
 
 .toc a:is(.dark *) {    
     color: white;
+}
+div.flex.author{
+    color: white !important;
 }
