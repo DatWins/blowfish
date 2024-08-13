@@ -7,13 +7,8 @@ projects: ["Mobile Apps", "Android", "Flutter"]
 heroStyle: background
 
 ---
+
 ## Overview
-SILPUSITRON (Electronically Integrated Public Service Information System) Sub-District Service is an application used by service officers in sub-districts to provide mail services to the community.
-
-The SILPUSITRON application is also designed to facilitate administrative services in villages and sub-districts. Administrative tasks and applications for administration within sub-districts or between Regional Device Organizations (RDOs) can be completed via a smartphone. 
-
-The public only needs to request and upload the required letter attachments.
-
 
 <table class="table-auto text-left text-base min-w-full">
     <tbody>
@@ -55,15 +50,23 @@ The public only needs to request and upload the required letter attachments.
       </tr>        
     </tbody>
   </table>
+  
+SILPUSITRON (Electronically Integrated Public Service Information System) Sub-District Service is an application used by service officers in sub-districts to provide mail services to the community.
+
+The SILPUSITRON application is also designed to facilitate administrative services in villages and sub-districts. Administrative tasks and applications for administration within sub-districts or between Regional Device Organizations (RDOs) can be completed via a smartphone. 
+
+The public only needs to request and upload the required letter attachments.
+
+
 
 
 ## Screenshots
 {{< gallery >}}
-  <img src="silpusitron_screen_1.png" class="grid-w33" />
-  <img src="silpusitron_screen_2.png" class="grid-w33" />
-  <img src="silpusitron_screen_3.png" class="grid-w33" />
-  <img src="silpusitron_screen_4.png" class="grid-w33" />
-  <img src="silpusitron_screen_5.png" class="grid-w33" />
+  <img src="img/silpusitron_screen_1.png" class="grid-w33" />
+  <img src="img/silpusitron_screen_2.png" class="grid-w33" />
+  <img src="img/silpusitron_screen_3.png" class="grid-w33" />
+  <img src="img/silpusitron_screen_4.png" class="grid-w33" />
+  <img src="img/silpusitron_screen_5.png" class="grid-w33" />
 {{< /gallery >}}
 
 ## App Features:

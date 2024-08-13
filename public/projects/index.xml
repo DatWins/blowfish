@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Utrodus Said Al Baqi</copyright>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android</title>
       <link>http://localhost:1313/projects/android/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/android/</guid>
       <description></description>
@@ -21,7 +21,7 @@
     <item>
       <title>Flutter</title>
       <link>http://localhost:1313/projects/flutter/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/flutter/</guid>
       <description></description>
@@ -31,9 +31,19 @@
     <item>
       <title>Mobile Apps</title>
       <link>http://localhost:1313/projects/mobile-apps/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/mobile-apps/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UI/UX Design</title>
+      <link>http://localhost:1313/projects/ui/ux-design/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ui/ux-design/</guid>
       <description></description>
       
     </item>

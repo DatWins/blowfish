@@ -7,14 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Utrodus Said Al Baqi</copyright>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bumi Glagah Arum</title>
+      <link>http://localhost:1313/portfolio/1722863758321-bumi-glagah-arum/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/1722863758321-bumi-glagah-arum/</guid>
+      <description>Overview #Client : Fison Fahmi - Member Of Bumi Perkemahan Glagah Arum Duration : 9 Month Year : 2021-2022 Services : Mobile Development, UI/UX Design Platform : Android Tech Stacks : Dart, Flutter, Laravel Bumi Glagah Arum is an ideal place to unwind from the hustle and bustle of the city.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722863758321-bumi-glagah-arum/featured.png" />
+    </item>
+    
+    <item>
+      <title>Flutter UI Doctor Appointment</title>
+      <link>http://localhost:1313/portfolio/1722854027982-flutter-ui-doctor-appointment-app/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/1722854027982-flutter-ui-doctor-appointment-app/</guid>
+      <description>Overview #Purpose: : Dicoding Submission Duration : 9 Days Year : 2021 Platform : Android &amp; iOS Tech Stacks : Dart V2.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722854027982-flutter-ui-doctor-appointment-app/featured.png" />
+    </item>
+    
+    <item>
+      <title>E-Tani Blitar</title>
+      <link>http://localhost:1313/portfolio/1722839886521-e-tani-blitar/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/1722839886521-e-tani-blitar/</guid>
+      <description>Overview #Client : Robait Usman - CV Ediide Infografika (Vendor) Duration : 5 Month Year : 2019 Services : Mobile Development Platform : Android Tech Stacks : Dart, Flutter, Drupal E-Tani Blitar (Enterprise Pertanian Kabupaten Blitar ) Regency is an application for the welfare of farmers and communities in Blitar Regency, by providing the latest information about market prices and commodities that are widely planted,</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722839886521-e-tani-blitar/featured.png" />
+    </item>
+    
     <item>
       <title>SILPUSITRON (Sub-Distric Services)</title>
       <link>http://localhost:1313/portfolio/1722775599519-silpusitron-layanan-kelurahan/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/1722775599519-silpusitron-layanan-kelurahan/</guid>
-      <description>📃 Overview #SILPUSITRON (Electronically Integrated Public Service Information System) Sub Distric Service is an application used by service officers in the sub-district in providing mail services to the community</description>
+      <description>Overview #Client : Robait Usman - CV Ediide Infografika (Vendor) Duration : 2 Week Year : 2019 Services : Mobile Development Platform : Android Tech Stacks : Dart, Flutter, Drupal SILPUSITRON (Electronically Integrated Public Service Information System) Sub-District Service is an application used by service officers in sub-districts to provide mail services to the community.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722775599519-silpusitron-layanan-kelurahan/featured.png" />
     </item>
     
