@@ -119,16 +119,6 @@
     </item>
     
     <item>
-      <title>Covid 19 Indo - Practice HTML CSS Flexbox</title>
-      <link>http://localhost:1313/portfolio/1723173096148-covid-19-indo---practice-html-css-flexbox/</link>
-      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/1723173096148-covid-19-indo---practice-html-css-flexbox/</guid>
-      <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723173096148-covid-19-indo---practice-html-css-flexbox/featured.png" />
-    </item>
-    
-    <item>
       <title>Phono (/Foʊ.noʊ/) App</title>
       <link>http://localhost:1313/portfolio/1723175108901-phono-/fo%CA%8A.no%CA%8A/-app/</link>
       <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
@@ -146,16 +136,6 @@
       <guid>http://localhost:1313/portfolio/1722839886521-e-tani-blitar/</guid>
       <description>Overview #Client : Robait Usman - CV Ediide Infografika (Vendor) Duration : 5 Month Year : 2019 Services : Mobile Development Platform : Android Tech Stacks : Dart, Flutter, Drupal E-Tani Blitar (Enterprise Pertanian Kabupaten Blitar ) Regency is an application for the welfare of farmers and communities in Blitar Regency, by providing the latest information about market prices and commodities that are widely planted,</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722839886521-e-tani-blitar/featured.png" />
-    </item>
-    
-    <item>
-      <title>Flutter Clone UI Traveloka</title>
-      <link>http://localhost:1313/portfolio/1723175194798-flutter-clone-ui-traveloka/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/1723175194798-flutter-clone-ui-traveloka/</guid>
-      <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723175194798-flutter-clone-ui-traveloka/featured.png" />
     </item>
     
     <item>
@@ -184,7 +164,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description>About Me #Hello 👋 , I’m Utrodus Said Al Baqi.</description>
+      <description>Hello 👋 , I’m Utrodus Said Al Baqi.</description>
       
     </item>
     

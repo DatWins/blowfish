@@ -9,12 +9,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/1723140495296-lpg-tracking-app/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -29,12 +23,6 @@
       hreflang="en"
       href="http://localhost:1313/portfolio/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/portfolio/1723141085714-sijapri/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
@@ -73,6 +61,18 @@
       hreflang="en"
       href="http://localhost:1313/posts/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/1723141085714-sijapri/</loc>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/1723140495296-lpg-tracking-app/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/portfolio/1723172606055-ayatnesia-backend/</loc>
@@ -137,12 +137,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/1723173096148-covid-19-indo---practice-html-css-flexbox/</loc>
-    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/portfolio/1723175108901-phono-/fo%CA%8A.no%CA%8A/-app/</loc>
     <lastmod>2019-12-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -163,12 +157,6 @@
       hreflang="en"
       href="http://localhost:1313/portfolio/1722839886521-e-tani-blitar/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/portfolio/1723175194798-flutter-clone-ui-traveloka/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/portfolio/1723141310498-jdih-kabupaten-blitar/</loc>
