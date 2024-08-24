@@ -75,17 +75,19 @@ The Bumi Glagah Arum app has been downloaded by more than 1,000 users on the Pla
 
 
 ## Screenshots
+
+
 {{< gallery >}}
-  <img src="img/bumiglagaharum-0.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-1.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-2.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-3.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-4.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-5.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-6.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-7.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-8.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-9.png" class="grid-w33" />
+  <img src="img/bumiglagaharum-0.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-1.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-2.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-3.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-4.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-5.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-6.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-7.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-8.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-9.png" class="grid-w50" />
 
 {{< /gallery >}}
 

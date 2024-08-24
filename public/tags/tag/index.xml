@@ -69,16 +69,6 @@
     </item>
     
     <item>
-      <title>Bookshelf Rest API HapiJS</title>
-      <link>http://localhost:1313/portfolio/1723173142467-bookshelf-rest-api-hapijs/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/1723173142467-bookshelf-rest-api-hapijs/</guid>
-      <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723173142467-bookshelf-rest-api-hapijs/featured.png" />
-    </item>
-    
-    <item>
       <title>Restaurant Finder (PWA)</title>
       <link>http://localhost:1313/portfolio/1723175390701-restaurant-finder-pwa/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>

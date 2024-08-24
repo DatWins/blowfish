@@ -60,13 +60,13 @@ Aplikasi ini juga memiliki fitur pengumpulan data tentang harga produsen, harga 
 
 ## Screenshots
 {{< gallery >}}
-  <img src="img/e-tani-1.id.png" class="grid-w33" />
-  <img src="img/e-tani-2.id.png" class="grid-w33" />
-  <img src="img/e-tani-3.id.png" class="grid-w33" />
-  <img src="img/e-tani-4.id.png" class="grid-w33" />
-  <img src="img/e-tani-5.id.png" class="grid-w33" />
-  <img src="img/e-tani-6.id.png" class="grid-w33" />
-  <img src="img/e-tani-7.id.png" class="grid-w33" />
+  <img src="img/e-tani-1.id.png" class="grid-w45" />
+  <img src="img/e-tani-2.id.png" class="grid-w45" />
+  <img src="img/e-tani-3.id.png" class="grid-w45" />
+  <img src="img/e-tani-4.id.png" class="grid-w45" />
+  <img src="img/e-tani-5.id.png" class="grid-w45" />
+  <img src="img/e-tani-6.id.png" class="grid-w45" />
+  <img src="img/e-tani-7.id.png" class="grid-w45" />
 {{< /gallery >}}
 
 ## Fitur Aplikasi:

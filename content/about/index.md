@@ -20,14 +20,12 @@ I am a hardworking individual with a strong drive to achieve my goals. My curios
 I also tend to be a **perfectionist**, which has its pros and cons. To manage my perfectionism, I focus on completing tasks first and address any issues that arise along the way.
 
 ## Contact Me
-If you are interested in learning more about my work or would like to hire me, please feel free to reach out:
-
+**If you’re interested in hiring me or collaborating on a project with a meaningful impact, please feel free to reach out via email or contact me on Telegram.
+**
 - 📧 Email: [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
-- ✉️ Telegram: [@said_albaqi](https://t.me/said_albaqi)
+- {{< icon "telegram" >}} Telegram: [@said_albaqi](https://t.me/said_albaqi)
 
 ## My Journey
-
-
 
 - 🔭 Currently focused in Cross-Platform App Development, I am working on projects that span Android, iOS, and Web.  
 - 🌱 My ongoing learning journey includes delving deeper into Backend Development. 
@@ -52,7 +50,7 @@ If you are interested in learning more about my work or would like to hire me, p
 
 
 ## Education
-- **Nahdlatul Ulama University of Blitar** (```2018-2023```)
+- **[Nahdlatul Ulama University of Blitar](https://unublitar.ac.id/)** (```2018-2023```)
   - ```Major:``` Computer Science
   - ```Grade:``` 3.76
   - ```Relevant Coursework```: Introduction to Logic & Programming, Algorithm & Data Structure, Object Oriented Programming, Java, Database, Software Engineering, Human-Computer Interaction, Mobile Application Development, Artificial Intelligence
@@ -64,4 +62,6 @@ Python, and FastAPI.
 
 ## Personal Interests
 
-> Outside of work, I enjoy exploring new technologies through research and unwinding by playing games on my PC or PlayStation. These activities not only help me maintain a balanced lifestyle but also bring fresh perspectives and inspiration to my professional endeavors.
+> Outside of work, I enjoy exploring new technologies through research and unwinding by playing games on my PC or PlayStation. 
+> 
+> These activities not only help me maintain a balanced lifestyle but also bring fresh perspectives and inspiration to my professional endeavors.
