@@ -30,7 +30,7 @@ showMoreLink = false
 showMoreLinkDest = "/posts"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true
 
 [article]
 showDate = true
