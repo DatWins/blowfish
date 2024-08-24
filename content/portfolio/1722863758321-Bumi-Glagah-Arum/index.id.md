@@ -75,16 +75,16 @@ Aplikasi Bumi Glagah Arum telah didownload lebih dari 1,000 pengguna di Play Sto
 
 ## Screenshots
 {{< gallery >}}
-<img src="img/bumiglagaharum-0.id.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-1.id.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-2.id.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-3.id.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-4.id.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-5.id.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-6.id.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-7.id.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-8.id.png" class="grid-w33" />
-  <img src="img/bumiglagaharum-9.id.png" class="grid-w33" />
+<img src="img/bumiglagaharum-0.id.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-1.id.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-2.id.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-3.id.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-4.id.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-5.id.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-6.id.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-7.id.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-8.id.png" class="grid-w50" />
+  <img src="img/bumiglagaharum-9.id.png" class="grid-w50" />
 
 {{< /gallery >}}
 

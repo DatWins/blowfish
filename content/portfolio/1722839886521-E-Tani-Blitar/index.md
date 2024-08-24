@@ -60,13 +60,13 @@ It also features data collection on producer prices, consumer prices, additional
 
 ## Screenshots
 {{< gallery >}}
-  <img src="img/e-tani-1.png" class="grid-w33" />
-  <img src="img/e-tani-2.png" class="grid-w33" />
-  <img src="img/e-tani-3.png" class="grid-w33" />
-  <img src="img/e-tani-4.png" class="grid-w33" />
-  <img src="img/e-tani-5.png" class="grid-w33" />
-  <img src="img/e-tani-6.png" class="grid-w33" />
-  <img src="img/e-tani-7.png" class="grid-w33" />
+  <img src="img/e-tani-1.png" class="grid-w45" />
+  <img src="img/e-tani-2.png" class="grid-w45" />
+  <img src="img/e-tani-3.png" class="grid-w45" />
+  <img src="img/e-tani-4.png" class="grid-w45" />
+  <img src="img/e-tani-5.png" class="grid-w45" />
+  <img src="img/e-tani-6.png" class="grid-w45" />
+  <img src="img/e-tani-7.png" class="grid-w45" />
 {{< /gallery >}}
 
 ## App Features:
