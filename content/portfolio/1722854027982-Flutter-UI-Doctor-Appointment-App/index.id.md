@@ -69,7 +69,7 @@ Flutter Doctor Appointments adalah aplikasi antarmuka pengguna (UI) yang dibangu
 - **Description:** Meskipun aplikasi ini hanya berfokus pada UI, data dokter diambil dari file JSON lokal untuk keperluan demonstrasi.
 - **Function:** Memungkinkan tampilan data dokter yang statis tanpa memerlukan server atau API eksternal.
 
-## Certificate  
+## Sertifikat  
 ![sertifikat kelulusan](https://camo.githubusercontent.com/025f9842052309d2c66ecb8194b35c3ceb74cbb19fd783235ae872aa0b355311/68747470733a2f2f692e6962622e636f2f355930777851782f53637265656e73686f742d312e706e67)
 
 {{< button href="https://www.dicoding.com/certificates/1OP8L5YN8ZQK" target="_blank_" >}}
