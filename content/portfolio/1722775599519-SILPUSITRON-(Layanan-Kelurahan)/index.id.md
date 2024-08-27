@@ -3,7 +3,7 @@ title: "SILPUSITRON (Sub-Distric Services)"
 date: 2019-03-04
 draft: false
 description: "a description"
-projects: ["Mobile Apps", "Android", "Flutter"]
+projects: ["Flutter", "Android", ]
 heroStyle: background
 
 ---

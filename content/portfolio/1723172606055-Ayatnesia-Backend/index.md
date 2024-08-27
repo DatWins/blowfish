@@ -3,7 +3,7 @@ title: "Ayatnesia Web & API"
 date: 2023-02-20
 draft: false
 description: "a description"
-tags: ["Web", "Python", "FastAPI", ]
+tags: [ "Python", "FastAPI", "Web", "REST API"]
 ---
  an example to get you started
 # This is a heading

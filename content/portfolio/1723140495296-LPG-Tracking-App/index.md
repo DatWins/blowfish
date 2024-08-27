@@ -3,7 +3,7 @@ title: "LPG Tracking App"
 date: 2023-07-28
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+projects: ["Flutter", "Android", "UI/UX Design" ]
 ---
  an example to get you started
 # This is a heading

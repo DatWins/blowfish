@@ -3,7 +3,7 @@ title: "E-Tani Blitar"
 date: 2019-10-02
 draft: false
 description: "a description"
-projects: ["Mobile Apps", "Android", "Flutter"]
+projects: ["Flutter", "Android", "UI/UX Design" ]
 heroStyle: background
 ---
 

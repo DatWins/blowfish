@@ -3,7 +3,7 @@ title: "Bumi Glagah Arum"
 date: 2021-10-06
 draft: false
 description: "a description"
-projects: ["Mobile Apps","UI/UX Design", "Android", "Flutter"]
+projects: ["Flutter", "Android", "UI/UX Design" ]
 heroStyle: background
 ---
 
