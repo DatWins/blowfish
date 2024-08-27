@@ -7,14 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Utrodus Said Al Baqi</copyright>
-    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antrian Sinona DPMPTSP Jatim</title>
+      <link>http://localhost:1313/portfolio/1723140512116-antrian-sinona-dpmptsp-jatim/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/1723140512116-antrian-sinona-dpmptsp-jatim/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723140512116-antrian-sinona-dpmptsp-jatim/featured.png" />
+    </item>
+    
+    <item>
+      <title>SIJAPRI (Sistem Informasi Pelayanan RSUD Ciawi Kab.Bogor)</title>
+      <link>http://localhost:1313/portfolio/1723141085714-sijapri/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/1723141085714-sijapri/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723141085714-sijapri/featured.png" />
+    </item>
+    
+    <item>
+      <title>LPG Tracking App</title>
+      <link>http://localhost:1313/portfolio/1723140495296-lpg-tracking-app/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/1723140495296-lpg-tracking-app/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723140495296-lpg-tracking-app/featured.png" />
+    </item>
+    
+    <item>
+      <title>Ayatnesia Mobile App</title>
+      <link>http://localhost:1313/portfolio/1723172640363-ayatnesia-mobile-app/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/1723172640363-ayatnesia-mobile-app/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723172640363-ayatnesia-mobile-app/featured.png" />
+    </item>
+    
     <item>
       <title>Flutter Sleep App</title>
       <link>http://localhost:1313/portfolio/1723140049028-sleep-app/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/1723140049028-sleep-app/</guid>
-      <description>an example to get you started</description>
+      <description>Overview # Purpose: : Dicoding Submission Duration : 7 Days Year : 2022 Platform : Android, iOS, Web Tech Stacks : Dart V2.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723140049028-sleep-app/featured.png" />
     </item>
     
@@ -24,7 +64,7 @@
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/1722863758321-bumi-glagah-arum/</guid>
-      <description>Overview #Client:Fison Fahmi - Member Of Bumi Perkemahan Glagah ArumDuration:9 MonthYear:2021-2022Services:Mobile Development, UI/UX DesignPlatform:AndroidTech Stacks:Dart, Flutter, LaravelBumi Glagah Arum is an ideal place to unwind from the hustle and bustle of the city.</description>
+      <description>Overview # Client : Fison Fahmi - Member Of Bumi Perkemahan Glagah Arum Duration : 9 Month Year : 2021-2022 Services : Mobile Development, UI/UX Design Platform : Android Tech Stacks : Dart, Flutter, Laravel Bumi Glagah Arum is an ideal place to unwind from the hustle and bustle of the city.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722863758321-bumi-glagah-arum/featured.png" />
     </item>
     
@@ -34,7 +74,7 @@
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/1722854027982-flutter-ui-doctor-appointment-app/</guid>
-      <description>Overview #Purpose: : Dicoding Submission Duration : 9 Days Year : 2021 Platform : Android &amp; iOS Tech Stacks : Dart V2.</description>
+      <description>Overview # Purpose: : Dicoding Submission Duration : 9 Days Year : 2021 Platform : Android &amp; iOS Tech Stacks : Dart V2.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722854027982-flutter-ui-doctor-appointment-app/featured.png" />
     </item>
     
@@ -44,7 +84,7 @@
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/1722839886521-e-tani-blitar/</guid>
-      <description>Overview #Client:Robait Usman - CV Ediide Infografika (Vendor)Duration:5 MonthYear:2019Services:Mobile DevelopmentPlatform:AndroidTech Stacks:Dart, Flutter, DrupalE-Tani Blitar (Enterprise Pertanian Kabupaten Blitar ) Regency is an application for the welfare of farmers and communities in Blitar Regency, by providing the latest information about market prices and commodities that are widely planted,</description>
+      <description>Overview # Client : Robait Usman - CV Ediide Infografika (Vendor) Duration : 5 Month Year : 2019 Services : Mobile Development Platform : Android Tech Stacks : Dart, Flutter, Drupal E-Tani Blitar (Enterprise Pertanian Kabupaten Blitar ) Regency is an application for the welfare of farmers and communities in Blitar Regency, by providing the latest information about market prices and commodities that are widely planted,</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722839886521-e-tani-blitar/featured.png" />
     </item>
     
@@ -54,7 +94,7 @@
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/1722775599519-silpusitron-layanan-kelurahan/</guid>
-      <description>Overview #Client : Robait Usman - CV Ediide Infografika (Vendor) Duration : 2 Week Year : 2019 Services : Mobile Development Platform : Android Tech Stacks : Dart, Flutter, Drupal SILPUSITRON (Electronically Integrated Public Service Information System) Sub-District Service is an application used by service officers in sub-districts to provide mail services to the community.</description>
+      <description>Overview # Client : Robait Usman - CV Ediide Infografika (Vendor) Duration : 2 Week Year : 2019 Services : Mobile Development Platform : Android Tech Stacks : Dart, Flutter, Drupal SILPUSITRON (Electronically Integrated Public Service Information System) Sub-District Service is an application used by service officers in sub-districts to provide mail services to the community.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722775599519-silpusitron-layanan-kelurahan/featured.png" />
     </item>
     

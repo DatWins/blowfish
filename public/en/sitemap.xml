@@ -125,18 +125,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/1723175390701-restaurant-finder-pwa/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/portfolio/1723175108901-phono-/fo%CA%8A.no%CA%8A/-app/</loc>
-    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/portfolio/1722839886521-e-tani-blitar/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -151,12 +139,6 @@
       hreflang="en"
       href="http://localhost:1313/portfolio/1722839886521-e-tani-blitar/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/portfolio/1723141310498-jdih-kabupaten-blitar/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/portfolio/1722775599519-silpusitron-layanan-kelurahan/</loc>
