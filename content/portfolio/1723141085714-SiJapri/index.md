@@ -1,9 +1,9 @@
 ---
-title: "SiJapri"
+title: "SIJAPRI (Sistem Informasi Pelayanan RSUD Ciawi Kab.Bogor)"
 date: 2023-09-03
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["Mobile Apps", "Android", "iOS", "Flutter"]
 ---
  an example to get you started
 # This is a heading

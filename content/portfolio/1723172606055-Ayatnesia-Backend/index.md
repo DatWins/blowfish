@@ -1,9 +1,9 @@
 ---
-title: "Ayatnesia Backend"
+title: "Ayatnesia Web & API"
 date: 2023-02-20
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["Web", "Python", "FastAPI", ]
 ---
  an example to get you started
 # This is a heading

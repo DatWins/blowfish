@@ -3,7 +3,7 @@ title: "Ayatnesia Mobile App"
 date: 2023-02-09
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["Mobile Apps", "Android", "iOS", "Flutter"]
 ---
  an example to get you started
 # This is a heading

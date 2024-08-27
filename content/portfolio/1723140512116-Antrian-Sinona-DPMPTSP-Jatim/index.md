@@ -3,7 +3,7 @@ title: "Antrian Sinona DPMPTSP Jatim"
 date: 2024-08-08
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["Mobile Apps", "Android", "Flutter"]
 ---
  an example to get you started
 # This is a heading
