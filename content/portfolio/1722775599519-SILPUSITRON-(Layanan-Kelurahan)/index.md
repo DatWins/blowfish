@@ -10,6 +10,8 @@ heroStyle: background
 
 ## Overview
 
+<img src="featured.png" />
+
 <table class="table-auto text-left text-base min-w-full">
     <tbody>
       <tr class="border-b py-2">

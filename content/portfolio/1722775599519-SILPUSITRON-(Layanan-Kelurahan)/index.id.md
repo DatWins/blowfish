@@ -8,6 +8,7 @@ heroStyle: background
 
 ---
 ## Overview
+<img src="featured.id.png" />
 
 <table class="table-auto text-left text-base min-w-full">
     <tbody>
@@ -49,6 +50,7 @@ heroStyle: background
       </tr>        
     </tbody>
   </table>
+
 SILPUSITRON (Electronically Integrated Public Service Information System) Layanan Kecamatan adalah aplikasi yang digunakan oleh petugas layanan di kecamatan untuk memberikan layanan surat kepada masyarakat.
 
 Aplikasi SILPUSITRON juga dirancang untuk memudahkan layanan administrasi di desa dan kecamatan. Tugas administrasi dan aplikasi untuk administrasi dalam kecamatan atau antara Organisasi Perangkat Daerah (OPD) dapat diselesaikan melalui smartphone.
