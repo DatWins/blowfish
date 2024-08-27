@@ -20,8 +20,8 @@ I am a hardworking individual with a strong drive to achieve my goals. My curios
 I also tend to be a **perfectionist**, which has its pros and cons. To manage my perfectionism, I focus on completing tasks first and address any issues that arise along the way.
 
 ## Contact Me
-**If you’re interested in hiring me or collaborating on a project with a meaningful impact, please feel free to reach out via email or contact me on Telegram.
-**
+If you’re interested in hiring me or collaborating on a project with a meaningful impact, please feel free to reach out via email or contact me on Telegram.
+
 - 📧 Email: [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
 - {{< icon "telegram" >}} Telegram: [@said_albaqi](https://t.me/said_albaqi)
 
