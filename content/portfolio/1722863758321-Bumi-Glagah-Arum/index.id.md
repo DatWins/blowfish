@@ -121,7 +121,10 @@ Berikut penjabaran fitur-fitur berdasarkan peran pengguna:
   - Menyewa area tertentu untuk berbagai keperluan seperti acara atau kegiatan khusus.
   
 
-## 🔗 Link to Project
-{{< button href="https://play.google.com/store/apps/details?id=com.app.bumi_glagah_arum" target="_blank_" >}}
-Live Demo
-{{< /button >}}
+
+## Live Preview
+
+<a href="https://play.google.com/store/apps/details?id=com.app.bumi_glagah_arum" target="_blank_"> 
+
+![get-it-on-googleplay](badge-android.png )
+</a>

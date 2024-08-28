@@ -109,8 +109,11 @@ It also features data collection on producer prices, consumer prices, additional
   - Profile (Edit Profil): Edits user personal information.
   - FAQ: Provides answers to frequently asked questions about using the application.
   - Logout: Allows users to securely log out of their accounts.
-  
-## 🔗 Link to Project
-{{< button href="https://play.google.com/store/apps/details?id=com.ediide.etaniblitarkab" target="_blank_" >}}
-Live Demo
-{{< /button >}}
+
+## Live Preview
+
+<a href="https://play.google.com/store/apps/details?id=com.ediide.etaniblitarkab" target="_blank_"> 
+
+![get-it-on-googleplay](badge-android.png )
+</a>
+

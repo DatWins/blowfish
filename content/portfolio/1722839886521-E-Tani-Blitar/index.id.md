@@ -110,7 +110,10 @@ Aplikasi ini juga memiliki fitur pengumpulan data tentang harga produsen, harga 
   - FAQ: Menyediakan jawaban atas pertanyaan yang sering diajukan tentang penggunaan aplikasi.
   - Logout: Memungkinkan pengguna untuk keluar dari akun mereka dengan aman.
   
-## 🔗 Link to Project
-{{< button href="https://play.google.com/store/apps/details?id=com.ediide.etaniblitarkab" target="_blank_" >}}
-Live Demo
-{{< /button >}}
+## Live Preview
+
+<a href="https://play.google.com/store/apps/details?id=com.ediide.etaniblitarkab" target="_blank_"> 
+
+![get-it-on-googleplay](badge-android.png )
+</a>
+

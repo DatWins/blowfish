@@ -8,7 +8,8 @@ heroStyle: background
 
 ---
 ## Overview
-<img src="featured.id.png" />
+![](featured.png)
+
 
 <table class="table-auto text-left text-base min-w-full">
     <tbody>
@@ -83,7 +84,9 @@ Masyarakat hanya perlu mengajukan permintaan dan mengunggah lampiran surat yang 
 - **Function:** Memberikan informasi kepada pengguna tentang dokumen yang telah menyelesaikan proses tanda tangan digital, memfasilitasi pelacakan dan pengarsipan.
   
 
-## 🔗 Link to Project
-{{< button href="https://play.google.com/store/apps/details?id=id.go.blitarkota.silpusitronms" target="_blank_" >}}
-🎯 Live Demo
-{{< /button >}}
+## Live Preview
+
+<a href="https://play.google.com/store/apps/details?id=id.go.blitarkota.silpusitronms" target="_blank_"> 
+
+![get-it-on-googleplay](badge-android.png )
+</a>

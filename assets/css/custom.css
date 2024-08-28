@@ -37,3 +37,7 @@
 div.flex.author{
     color: white !important;
 }
+
+img[alt="get-it-on-googleplay"] { 
+    width: 200px;
+  }

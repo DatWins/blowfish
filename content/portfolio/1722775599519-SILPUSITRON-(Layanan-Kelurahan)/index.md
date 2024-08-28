@@ -9,8 +9,7 @@ heroStyle: background
 ---
 
 ## Overview
-
-<img src="featured.png" />
+![](featured.png)
 
 <table class="table-auto text-left text-base min-w-full">
     <tbody>
@@ -46,7 +45,7 @@ heroStyle: background
       <tr class="border-b py-2">
         <td class="font-bold">Tech Stacks</td>
         <td class="font-bold">:</td>
-        <td class="py-2">
+        <td class="py-2"> 
           Dart, Flutter, Drupal
           </td>
       </tr>        
@@ -84,7 +83,11 @@ The public only needs to request and upload the required letter attachments.
 - **Function:** Provides information to users about documents that have completed the digital signing process, facilitating tracking and archiving.
   
 
-## 🔗 Link to Project
-{{< button href="https://play.google.com/store/apps/details?id=id.go.blitarkota.silpusitronms" target="_blank_" >}}
-Live Demo
-{{< /button >}}
+## Live Preview
+
+<a href="https://play.google.com/store/apps/details?id=id.go.blitarkota.silpusitronms" target="_blank_"> 
+
+![get-it-on-googleplay](badge-android.png )
+</a>
+
+
