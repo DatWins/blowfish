@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/id/portfolio/1722863758321-bumi-glagah-arum/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/id/portfolio/1723140049028-sleep-app/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/portfolio/1722863758321-bumi-glagah-arum/"
+      href="http://localhost:1313/portfolio/1723140049028-sleep-app/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="id"
-      href="http://localhost:1313/id/portfolio/1722863758321-bumi-glagah-arum/"
+      href="http://localhost:1313/id/portfolio/1723140049028-sleep-app/"
     />
   </url>
   <url>
     <loc>http://localhost:1313/id/portfolio/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -36,7 +36,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/id/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -48,6 +48,22 @@
       rel="alternate"
       hreflang="id"
       href="http://localhost:1313/id/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/portfolio/1722863758321-bumi-glagah-arum/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/portfolio/1722863758321-bumi-glagah-arum/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="id"
+      href="http://localhost:1313/id/portfolio/1722863758321-bumi-glagah-arum/"
     />
   </url>
   <url>
