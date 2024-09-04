@@ -3,8 +3,7 @@ title: "Flutter UI Doctor Appointment"
 date: 2021-07-21
 draft: false
 description: "a description"
-projects: ["Mobile Apps", "Android", "Flutter"]
-heroStyle: background
+projects: ["Flutter", "Android", "iOS" ]
 ---
 
 

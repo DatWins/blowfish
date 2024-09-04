@@ -5,6 +5,7 @@ showDate: false
 showWordCount: false
 showReadingTime: false
 showTableOfContents: true
+layoutBackgroundHeaderSpace: false
 ---
 
 

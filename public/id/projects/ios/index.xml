@@ -28,5 +28,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723140049028-sleep-app/featured.png" />
     </item>
     
+    <item>
+      <title>Flutter UI Doctor Appointment</title>
+      <link>http://localhost:1313/id/portfolio/1722854027982-flutter-ui-doctor-appointment-app/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/portfolio/1722854027982-flutter-ui-doctor-appointment-app/</guid>
+      <description>Overview #Tujuan::Dicoding SubmissionDurasi:9 HariTahun:2021Platform:Android &amp; iOSTech Stacks:Dart V2.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/id/portfolio/1722854027982-flutter-ui-doctor-appointment-app/featured.id.png" />
+    </item>
+    
   </channel>
 </rss>

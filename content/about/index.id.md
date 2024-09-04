@@ -5,6 +5,8 @@ showDate: false
 showWordCount: false
 showReadingTime: false
 showTableOfContents: true
+layoutBackgroundHeaderSpace: false
+
 ---
 
 Halo 👋, saya **Utrodus Said Al Baqi**, seorang software engineer yang memiliki keahlian kuat dalam **Dart dan Flutter**. Saya mengkhususkan diri dalam menciptakan aplikasi yang indah dan ramah pengguna untuk **Android, iOS, dan web.**

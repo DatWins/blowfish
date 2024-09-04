@@ -4,7 +4,6 @@ date: 2021-10-06
 draft: false
 description: "a description"
 projects: ["Flutter", "Android", "UI/UX Design" ]
-heroStyle: background
 ---
 
 

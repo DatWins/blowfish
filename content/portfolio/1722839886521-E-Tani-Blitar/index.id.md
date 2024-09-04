@@ -4,11 +4,10 @@ date: 2019-10-02
 draft: false
 description: "a description"
 projects: ["Flutter", "Android", "UI/UX Design" ]
-heroStyle: background
 ---
 
 ## Overview
-<img src="featured.id.png" />
+![featured image](featured.png)
 
 <table class="table-auto text-left text-base min-w-full">
     <tbody>
