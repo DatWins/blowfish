@@ -7,7 +7,7 @@ projects: ["Flutter", "Android", "UI/UX Design" ]
 ---
 
 ## Overview
-<img src="featured.png" />
+![featured image](featured.png)
 
 <table class="table-auto text-left text-base min-w-full">
     <tbody>
@@ -49,31 +49,29 @@ projects: ["Flutter", "Android", "UI/UX Design" ]
       </tr>        
     </tbody>
   </table>
+LPG Tracking is a tracking application for LPG cylinder deliveries owned by Pertamina Patra Niaga. The client for this project is Mohammad Nadzif - PT MyPro Solusindo Informatika, acting as a vendor for Pertamina Patra Niaga.
 
-LPG Tracking adalah aplikasi pelacakan pengiriman tabung LPG milik Pertamina Patra Niaga. Client untuk proyek ini ialah Mohammad Nadzif - PT MyPro Solusindo Informatika sebagai vendor dari Pertamina Patra Niaga. 
+In this project, PT MyPro Solusindo Informatika was responsible for providing technology solutions to improve efficiency and transparency in LPG tracking and delivery.
 
-Dalam proyek ini, PT MyPro Solusindo Informatika bertanggung jawab untuk menyediakan solusi teknologi yang dapat meningkatkan efisiensi dan transparansi dalam pelacakan dan pengiriman LPG. 
+I worked as a freelancer for PT MyPro Solusindo Informatika, acting as the lead developer for designing the UI/UX and developing the mobile application.
 
-Saya berperan sebagai freelancer yang bekerja untuk PT MyPro Solusindo Informatika, bertindak sebagai pengembang utama untuk merancang UI/UX Design dan pengembangan aplikasi mobile.
+The application is designed for two primary user roles:
 
-Aplikasi ini dirancang untuk dua peran utama pengguna: 
-- Transporter (🚚)
-- Outlet (📦). 
-   
-Dengan fitur-fitur yang lengkap, aplikasi ini memudahkan proses pengelolaan dan pelacakan distribusi LPG, mulai dari pengelolaan pesanan hingga konfirmasi penerimaan barang. 
+Transporter (🚚)
+Outlet (📦)
+With comprehensive features, this application facilitates the management and tracking of LPG distribution processes, from order management to goods receipt confirmation.
 
-## Scope Tanggung Jawab:
-- Membuat UI/UX Design menggunakan **Figma** sesuai permintaan client.
-- Mengembangkan standarisasi code dan project Flutter.
-- Mengembangkan aplikasi hingga selesai.
-  - termasuk translate UI design yang telah dibuat, 
-  - mengintegrasikan dengan backend, 
-  - menerapkan refresh token, 
-  - serta menerapkan best practice Flutter.
+## Scope of Responsibilities
+- Creating UI/UX Design using **Figma** according to the client's request.
+- Developing standardization for code and Flutter project.
+- Developing the application to completion.
+  - This includes translating the designed UI,
+  - integrating it with the backend,
+  - implementing refresh token,
+  - and applying Flutter best practices.
 
 
 ## Screenshots
-
 {{< gallery >}}
   <img src="img/lpg_tracking_1.png" class="grid-w50" />
   <img src="img/lpg_tracking_2.png" class="grid-w50" />
@@ -84,4 +82,33 @@ Dengan fitur-fitur yang lengkap, aplikasi ini memudahkan proses pengelolaan dan 
   <img src="img/lpg_tracking_7.png" class="grid-w50" />
 {{< /gallery >}}
 
-## App Features:
+
+## App Features
+
+- **List of Orders and Scheduling**: This feature is used to manage all orders related to the outlet and delivery scheduling. It serves as the main control hub to ensure that all orders are properly organized and managed.
+
+- **Generated Order ID Notification**: Every time a new Order ID is created, users will receive a notification. This ensures that users are always updated about the status of new orders registered in the system.
+
+- **View Order and Scheduling Details**: This feature allows users to view specific details of each order and its associated schedule. It includes information such as ordered items, delivery schedule, and other relevant details.
+
+- **Search**: The search feature makes it easy for users to quickly find specific orders or schedules. Users can input keywords or other criteria to filter the required data.
+
+- **Order Filter**: In addition to the search feature, users can use the filter feature to narrow down the order list based on certain criteria, such as status, date, or order type.
+
+- **Delivery Confirmation (Yes or No)**: This feature allows the transporter to confirm whether the delivery has been completed or not. This is a crucial step to ensure that the delivery process is completed and properly recorded in the system.
+
+- **Delivery Notification**: Once the delivery is completed, this feature will send a notification to the relevant users. This ensures that the goods have been delivered as ordered.
+
+- **Goods Received Notification at the Outlet (Agent)**: This feature informs the agent or outlet that the delivered goods have been received. This helps reduce confusion or uncertainty about the delivery status.
+
+- **Update Delivery Status**: Users can update the delivery status through this feature. This ensures that the most up-to-date information about deliveries is always available in the application.
+
+- **Goods Receipt Confirmation**: This feature allows the outlet to confirm that the goods they received match the ones shipped. It is an important step in accurately recording the receipt of goods.
+
+- **Delivery Realization Confirmation (Yes or No)**: This feature allows users to confirm whether the delivery realization has been completed or not, providing additional assurance in the tracking process.
+
+- **Input Delivery Realization**: Users can input delivery realization data through this feature, recording the details of completed deliveries for administrative and reporting purposes.
+
+- **Photo Upload**: This feature allows users to upload photos as proof of delivery. It can be used to document the condition of goods during shipment or receipt, adding a layer of security and verification.
+
+- **Geo-Tagging Location Validation**: This feature is used to validate the geographical location (geo-tagging) when goods are delivered. It is important to ensure that the delivery is made to the correct location according to the order.
