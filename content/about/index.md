@@ -8,29 +8,21 @@ showTableOfContents: true
 ---
 
 
+Hello 👋 , **I'm Utrodus Said Al Baqi**, a software engineer with a strong proficiency in **Dart** and **Flutter**. I specialize in creating beautiful, user-friendly applications for **Android, iOS, and the web**. 
 
+My unique combination of technical expertise and design skills ensures that each project is not only functional but also visually stunning.
 
-Hello 👋 , I’m **Utrodus Said Al Baqi**. As a software engineer, I am proficient in **Dart** and **Flutter**, Specializing in developing beautiful, user-friendly apps for **Android, iOS, and the Web**. My unique blend of technical expertise and design skills ensures that every project is both functional and visually stunning.
+Originally from **Blitar, Indonesia**, where I currently reside, I prefer **working remotely** 👨‍💻. This allows me the flexibility to continue **delivering high-quality work**, whether on a full-time or freelance basis.
 
-Originally from **Blitar, Indonesia**, where I currently reside, I prefer **working remotely** 👨‍💻 rather than commuting to an office. Therefore, I will continue working remotely, whether on a **full-time** or **freelance basis**.
+I am a hardworking individual with a strong determination to achieve my goals. My curiosity, particularly in **technology**, drives me to dive deep into **research** and **experimentation** whenever something intrigues me.
 
-
-I am a hardworking individual with a strong drive to achieve my goals. My curiosity, especially about **technology**, is high, and when I'm intrigued by something, I usually dive into **research and experimentation**. 
-
-I also tend to be a **perfectionist**, which has its pros and cons. To manage my perfectionism, I focus on completing tasks first and address any issues that arise along the way.
+While I tend to be a **perfectionist—an** **approach** with both its benefits and challenges—I manage it by prioritizing task **completion first**, addressing any issues that arise along the way.
 
 ## Contact Me
-If you’re interested in hiring me or collaborating on a project with a meaningful impact, please feel free to reach out via email or contact me on Telegram.
+> If you’re interested in hiring me or collaborating on a project with a meaningful impact, please feel free to reach out via email or contact me on Telegram.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.utrodus@gmail.com)
+[![Contact Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_albaqi) 
 
-- 📧 Email: [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
-- {{< icon "telegram" >}} Telegram: [@said_albaqi](https://t.me/said_albaqi)
-
-## My Journey
-
-- 🔭 Currently focused in Cross-Platform App Development, I am working on projects that span Android, iOS, and Web.  
-- 🌱 My ongoing learning journey includes delving deeper into Backend Development. 
-- 🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of Multi-Platform App Development.  
-- 🗿 Fun Fact: As an early adopter of Dart & Flutter, I have been exploring its capabilities for over three years.
 
 ## Skills
 
@@ -59,6 +51,13 @@ semantic, and combined search approaches. The project was built using Dart, Flut
 Python, and FastAPI.
 
   
+## My Journey
+
+- 🔭 Currently focused in Cross-Platform App Development, I am working on projects that span Android, iOS, and Web.  
+- 🌱 My ongoing learning journey includes delving deeper into Backend Development. 
+- 🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of Multi-Platform App Development.  
+- 🗿 Fun Fact: As an early adopter of Dart & Flutter, I have been exploring its capabilities for over three years.
+
 
 ## Personal Interests
 

@@ -6,28 +6,23 @@ showWordCount: false
 showReadingTime: false
 showTableOfContents: true
 ---
-Halo 👋, saya **Utrodus Said Al Baqi**. Sebagai seorang Software Engineer, saya mahir dalam **Dart** dan **Flutter**, serta mengkhususkan diri dalam mengembangkan aplikasi yang indah dan ramah pengguna untuk **Android, iOS, dan Web**. Kombinasi keahlian teknis dan keterampilan desain saya memastikan setiap proyek tidak hanya berfungsi dengan baik tetapi juga menarik secara visual.
 
-Saya berasal dari **Blitar, Indonesia**, tempat saya tinggal saat ini, dan saya lebih memilih bekerja secara **remote** 👨‍💻 daripada harus bepergian ke kantor. Oleh karena itu, saya akan terus bekerja dari jarak jauh, baik secara **penuh waktu** maupun **freelance**.
+Halo 👋, saya **Utrodus Said Al Baqi**, seorang software engineer yang memiliki keahlian kuat dalam **Dart dan Flutter**. Saya mengkhususkan diri dalam menciptakan aplikasi yang indah dan ramah pengguna untuk **Android, iOS, dan web.**
 
-Saya adalah individu yang pekerja keras dengan dorongan kuat untuk mencapai tujuan saya. Rasa ingin tahu saya, terutama dalam bidang **teknologi**, sangat tinggi, dan ketika saya tertarik pada sesuatu, saya biasanya langsung terjun ke **penelitian dan eksperimen**.
+Kombinasi unik antara **keahlian teknis dan kemampuan desain** yang saya miliki memastikan bahwa setiap proyek tidak hanya fungsional, tetapi juga memukau secara visual.
 
-Saya juga cenderung menjadi seorang **perfeksionis**, yang memiliki kelebihan dan kekurangan. Untuk mengelola perfeksionisme saya, saya fokus pada menyelesaikan tugas terlebih dahulu dan menangani masalah yang muncul seiring berjalannya waktu.
+Saya berasal dari Blitar, Indonesia, dan saat ini saya tinggal di sana. Saya lebih memilih **bekerja secara remote** 👨‍💻. Hal ini memberikan fleksibilitas bagi saya untuk terus memberikan hasil kerja berkualitas tinggi, baik secara **full-time** maupun **freelance.**
+
+Saya adalah individu yang pekerja keras dengan tekad yang kuat untuk mencapai tujuan saya. Rasa ingin tahu saya, terutama dalam bidang teknologi, mendorong saya untuk mendalami riset dan eksperimen setiap kali ada sesuatu yang menarik perhatian saya.
+
+Meskipun saya cenderung menjadi seorang **perfeksionis** yang memiliki kelebihan dan tantangannya tersendiri, saya mengelolanya dengan memprioritaskan penyelesaian tugas terlebih dahulu, dan kemudian menangani masalah yang muncul di sepanjang jalan.
 
 
 ## Kontak Saya
-Jika Anda tertarik untuk merekrut saya atau berkolaborasi dalam proyek yang berdampak, jangan ragu untuk menghubungi saya melalui email atau Telegram.
+> Jika Anda tertarik untuk merekrut saya atau berkolaborasi dalam proyek yang berdampak, jangan ragu untuk menghubungi saya melalui email atau Telegram.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.utrodus@gmail.com)
+[![Contact Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_albaqi) 
 
-- 📧 Email: [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
-- {{< icon "telegram" >}} Telegram: [@said_albaqi](https://t.me/said_albaqi)
-
-
-## Perjalanan Saya
-
-- 🔭 Currently focused in Cross-Platform App Development, I am working on projects that span Android, iOS, and Web.  
-- 🌱 Perjalanan pembelajaran saya yang sedang berlangsung ialah mendalami Backend Development.
-- 🤓 Saya memiliki kegemaran untuk melakukan penelitian mini atau investigasi terhadap hal-hal yang menarik minat saya, terutama dalam bidang Pengembangan Aplikasi Multi-Platform.
-- 🗿 Fakta Menarik: Sebagai pengadopsi awal Dart & Flutter, saya telah mengeksplorasi kemampuannya selama lebih dari tiga tahun.
 
 ## Skills
 
@@ -52,6 +47,13 @@ Jika Anda tertarik untuk merekrut saya atau berkolaborasi dalam proyek yang berd
   - ```Relevant Coursework```: Pengantar Logika & Pemrograman, Algoritma & Struktur Data, Pemrograman Berorientasi Objek, Java, Basis Data, Rekayasa Perangkat Lunak, Interaksi Manusia-Komputer, Pengembangan Aplikasi Mobile, Kecerdasan Buatan
   - ```Final Year Project```: Mengembangkan aplikasi pencarian ayat Quran yang fokus pada pendekatan pencarian leksikal, semantik, dan gabungan. Proyek ini dibangun menggunakan Dart, Flutter, Python, dan FastAPI.
   
+## Perjalanan Saya
+
+- 🔭 Currently focused in Cross-Platform App Development, I am working on projects that span Android, iOS, and Web.  
+- 🌱 Perjalanan pembelajaran saya yang sedang berlangsung ialah mendalami Backend Development.
+- 🤓 Saya memiliki kegemaran untuk melakukan penelitian mini atau investigasi terhadap hal-hal yang menarik minat saya, terutama dalam bidang Pengembangan Aplikasi Multi-Platform.
+- 🗿 Fakta Menarik: Sebagai pengadopsi awal Dart & Flutter, saya telah mengeksplorasi kemampuannya selama lebih dari tiga tahun.
+
 
 ## Personal Interests
 > Di luar pekerjaan, saya menikmati menjelajahi teknologi baru melalui penelitian dan bersantai dengan bermain game di PC atau PlayStation. 
