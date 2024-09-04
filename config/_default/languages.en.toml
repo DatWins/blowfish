@@ -16,4 +16,4 @@ image = "utrodus_w8ad5s.webp"
 name = "Utrodus Said Al Baqi"
 headline = "Flutter Developer | Flutter Engineer"
 bio = "Dart & Flutter enthusiast with over 3 years of experience in developing beautiful, functional, and user-friendly apps."
-links = [ { github = "https://github.com/utrodus" }, { instagram = "https://www.instagram.com/utrodus/" }, { linkedin = "https://www.linkedin.com/in/utrodus-said/" }, { telegram = "https://t.me/said_albaqi" }, { youtube = "https://www.youtube.com/@utrodus" } ]
+links = [ { github = "https://github.com/utrodus" }, { linkedin = "https://www.linkedin.com/in/utrodus-said/" }, { telegram = "https://t.me/said_albaqi" },  { instagram = "https://www.instagram.com/utrodus/" }, { youtube = "https://www.youtube.com/@utrodus" } ]
