@@ -1,13 +1,16 @@
 ---
-title: "About"
+title: "About Me"
 description: "I'm Utrodus Said Al Baqi, and I'm passionate about developing multi-platform applications for Android, iOS, Web, and the Desktop. As a perpetual learner, I thrive on staying ahead with the latest advancements in Flutter and related technologies."
 showDate: false
 showWordCount: false
 showReadingTime: false
 showTableOfContents: true
 layoutBackgroundHeaderSpace: false
+showZenMode: false
 ---
 
+
+![Utrodus Photo](utrodus.png)
 
 Hello 👋 , **I'm Utrodus Said Al Baqi**, a software engineer with a strong proficiency in **Dart** and **Flutter**. I specialize in creating beautiful, user-friendly applications for **Android, iOS, and the web**. 
 
@@ -19,13 +22,8 @@ I am a hardworking individual with a strong determination to achieve my goals. M
 
 While I tend to be a **perfectionist—an** **approach** with both its benefits and challenges—I manage it by prioritizing task **completion first**, addressing any issues that arise along the way.
 
-## Contact Me
-> If you’re interested in hiring me or collaborating on a project with a meaningful impact, please feel free to reach out via email or contact me on Telegram.
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.utrodus@gmail.com)
-[![Contact Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_albaqi) 
 
-
-## Skills
+## My Skills
 
 <img src="flutter_logo_animated.gif" width="200" height="50"  />
 

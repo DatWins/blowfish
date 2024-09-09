@@ -1,13 +1,16 @@
 ---
-title: "About"
+title: "Tentang Saya"
 description: "I'm Utrodus Said Al Baqi, and I'm passionate about developing multi-platform applications for Android, iOS, Web, and the Desktop. As a perpetual learner, I thrive on staying ahead with the latest advancements in Flutter and related technologies."
 showDate: false
 showWordCount: false
 showReadingTime: false
 showTableOfContents: true
 layoutBackgroundHeaderSpace: false
+showZenMode: false
 
 ---
+
+![Utrodus Photo](utrodus.png)
 
 Halo 👋, saya **Utrodus Said Al Baqi**, seorang software engineer yang memiliki keahlian kuat dalam **Dart dan Flutter**. Saya mengkhususkan diri dalam menciptakan aplikasi yang indah dan ramah pengguna untuk **Android, iOS, dan web.**
 
@@ -20,13 +23,8 @@ Saya adalah individu yang pekerja keras dengan tekad yang kuat untuk mencapai tu
 Meskipun saya cenderung menjadi seorang **perfeksionis** yang memiliki kelebihan dan tantangannya tersendiri, saya mengelolanya dengan memprioritaskan penyelesaian tugas terlebih dahulu, dan kemudian menangani masalah yang muncul di sepanjang jalan.
 
 
-## Kontak Saya
-> Jika Anda tertarik untuk merekrut saya atau berkolaborasi dalam proyek yang berdampak, jangan ragu untuk menghubungi saya melalui email atau Telegram.
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.utrodus@gmail.com)
-[![Contact Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_albaqi) 
 
-
-## Skills
+## My Skills
 
 <img src="flutter_logo_animated.id.gif" width="200" height="50"  />
 
