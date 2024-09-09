@@ -1,7 +1,7 @@
 ---
 title: "SIJAPRI (Sistem Informasi Pelayanan RSUD Ciawi Kab.Bogor)"
 date: 2023-09-03
-draft: false
+draft: true
 description: "a description"
 projects: ["Flutter", "Android", "UI/UX Design" ]
 ---

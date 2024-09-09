@@ -111,8 +111,6 @@ Aplikasi ini juga memiliki fitur pengumpulan data tentang harga produsen, harga 
   
 ## Live Preview
 
-<a href="https://play.google.com/store/apps/details?id=com.ediide.etaniblitarkab" target="_blank_"> 
-
-![get-it-on-googleplay](badge-android.png )
+<a href="https://play.google.com/store/apps/details?id=com.ediide.etaniblitarkab" target="_blank_" style="display:inline-block;"> 
+<img src="badge-android.id.png" class="nozoom" alt="badge-android" style="width:13rem;margin:0;">
 </a>
-

@@ -85,6 +85,6 @@ Masyarakat hanya perlu mengajukan permintaan dan mengunggah lampiran surat yang 
 
 ## Live Preview
 
-<a href="https://play.google.com/store/apps/details?id=id.go.blitarkota.silpusitronms" target="_blank_"> 
-<img src="badge-android.png" class="nozoom" alt="badge-android">
+<a href="https://play.google.com/store/apps/details?id=id.go.blitarkota.silpusitronms" target="_blank_" style="display:inline-block;"> 
+<img src="badge-android.id.png" class="nozoom" alt="badge-android" style="width:13rem;margin:0;">
 </a>

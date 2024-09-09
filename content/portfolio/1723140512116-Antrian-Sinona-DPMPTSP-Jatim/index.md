@@ -1,7 +1,7 @@
 ---
 title: "Antrian Sinona DPMPTSP Jatim"
 date: 2024-08-08
-draft: false
+draft: true
 description: "a description"
 projects: ["Flutter", "Android", "UI/UX Design" ]
 ---
