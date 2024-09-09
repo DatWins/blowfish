@@ -1,8 +1,8 @@
 ---
-title: "SILPUSITRON (Sub-Distric Services)"
+title: "SILPUSITRON: Mempermudah Layanan Administrasi di Kecamatan"
 date: 2019-03-04
 draft: false
-description: "a description"
+description: "Permudah layanan administrasi kecamatan dengan SILPUSITRON. Ajukan permintaan surat dan unggah dokumen hanya melalui smartphone."
 projects: ["Flutter", "Android", ]
 
 ---

@@ -1,8 +1,8 @@
 ---
-title: "SILPUSITRON (Sub-Distric Services)"
+title: "SILPUSITRON: Streamlining Sub-District Document Services"
 date: 2019-03-04
 draft: false
-description: "a description"
+description: "Streamline sub-district administrative services with SILPUSITRON. Handle document requests via smartphone and simplify community services effortlessly."
 projects: ["Flutter", "Android", ]
 ---
 
