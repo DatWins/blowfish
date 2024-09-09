@@ -30,8 +30,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6215809720563df566f56cb41e11797ef728d1738b6e5955f850b94d533b6ba037840ab978707467d35f153e302140eb0787a18558624d4837f94a297b493745.css"
-    integrity="sha512-YhWAlyBWPfVm9Wy0HhF5fvco0XOLbllV&#43;FC5TVM7a6A3hAq5eHB0Z9NfFT4wIUDrB4ehhVhiTUg3&#43;Uope0k3RQ==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.237fa1bd8bb84819cecec16fc6776eaf499eb977ae2a50b5b268c669284f6c703dc92b8960ccbb586de77ef5da6aa7da987cf687f77befff59912797e50d799b.css"
+    integrity="sha512-I3&#43;hvYu4SBnOzsFvxndur0meuXeuKlC1smjGaShPbHA9ySuJYMy7WG3nfvXaaqfamHz2h/d77/9ZkSeX5Q15mw==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.ba757c16d0ce13a1f4d8101f6a49b3eeb9bdd907c8c8a0830e05607dd43465a42548864471212ef28664a6e3dcb6ea5eaf9ac16ddf3a971152f9b43767ced132.js"
@@ -242,7 +242,18 @@
   <a href="/id/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
-        Tentang
+        About
+    </p>
+</a>
+
+
+
+            
+            
+  <a href="/id/contact/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="">
+        Contact
     </p>
 </a>
 
@@ -527,7 +538,22 @@
     <a href="/id/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            Tentang
+            About
+        </p>
+    </a>
+</li>
+
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/id/contact/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            Contact
         </p>
     </a>
 </li>
@@ -655,6 +681,44 @@
       
 
 
+
+
+
+
+ 
+  
+   
+  
+ 
+
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/background_hu10815607948996536088.png);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
  <header>
   
   <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">RestAPI</h1>
@@ -703,49 +767,30 @@
 
   
 
-  <section class="space-y-10 w-full">
+  
+
+  <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
     
     
     
+
+  <a href="/id/portfolio/1723172640363-ayatnesia-app/" class="min-w-full">
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/id/portfolio/1723172640363-ayatnesia-app/">
-    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/id/portfolio/1723172640363-ayatnesia-app/featured.id_hu4590950885896605408.png);"></div>
+        <div class="w-full thumbnail_card nozoom" style="background-image:url(/id/portfolio/1723172640363-ayatnesia-app/featured.id_hu4590950885896605408.png);"></div>
         
-      <div class=" p-4">
-      <div class="items-center text-left text-xl font-semibold">
+      
+
+      <div class="px-6 py-4">
+
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/id/portfolio/1723172640363-ayatnesia-app/">Ayatnesia App</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -871,14 +916,21 @@
 
 
 
+        </div>
+
+        
       </div>
-      
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
     </div>
   </a>
 
     
     
   </section>
+
+  
 
   
 
