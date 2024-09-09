@@ -1,8 +1,8 @@
 ---
-title: "E-Tani Blitar"
+title: "E-Tani Blitar: Empowering Farmers and Communities in Blitar Regency"
 date: 2019-10-02
 draft: false
-description: "a description"
+description: "Stay updated with E-Tani Blitar! Get the latest commodity prices, track producer and consumer prices, and make informed farming decisions in Blitar Regency."
 projects: ["Flutter", "Android", "UI/UX Design" ]
 ---
 
@@ -111,8 +111,7 @@ It also features data collection on producer prices, consumer prices, additional
   - FAQ: Provides answers to frequently asked questions about using the application.
   - Logout: Allows users to securely log out of their accounts.
 
-## Live Preview
-
+<!-- ## Live Preview
 <a href="https://play.google.com/store/apps/details?id=com.ediide.etaniblitarkab" target="_blank_" style="display:inline-block;"> 
 <img src="badge-android.png" class="nozoom" alt="badge-android" style="width:13rem;margin:0;">
-</a>
+</a> -->

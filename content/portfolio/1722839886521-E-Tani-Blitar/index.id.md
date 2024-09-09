@@ -1,8 +1,8 @@
 ---
-title: "E-Tani Blitar"
+title: "E-Tani Blitar: Meningkatkan Kesejahteraan Petani dan Masyarakat Kabupaten Blitar"
 date: 2019-10-02
 draft: false
-description: "a description"
+description: "Dapatkan informasi terkini dengan E-Tani Blitar! Pantau harga komoditas, lacak harga produsen dan konsumen, dan buat keputusan pertanian yang tepat di Kabupaten Blitar."
 projects: ["Flutter", "Android", "UI/UX Design" ]
 ---
 
@@ -109,8 +109,7 @@ Aplikasi ini juga memiliki fitur pengumpulan data tentang harga produsen, harga 
   - FAQ: Menyediakan jawaban atas pertanyaan yang sering diajukan tentang penggunaan aplikasi.
   - Logout: Memungkinkan pengguna untuk keluar dari akun mereka dengan aman.
   
-## Live Preview
-
+<!-- ## Live Preview
 <a href="https://play.google.com/store/apps/details?id=com.ediide.etaniblitarkab" target="_blank_" style="display:inline-block;"> 
 <img src="badge-android.id.png" class="nozoom" alt="badge-android" style="width:13rem;margin:0;">
-</a>
+</a> -->
