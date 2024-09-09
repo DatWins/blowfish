@@ -1,10 +1,4 @@
 [[main]]
-name = "Tentang"
-pageRef = "/about"
-identifier = "ZsZOuvAcPO"
-weight = 3
-
-[[main]]
 name = "Blog"
 pageRef = "/posts"
 identifier = "M65aSqWxzz"
@@ -17,28 +11,36 @@ identifier = "WVOjONkwdt"
 weight = 2
 
 [[main]]
+name = "About"
+pageRef = "/about"
+identifier = "ZsZOuvAcPO"
+weight = 3
+
+[[main]]
+name = "Contact"
+pageRef = "/contact"
+identifier = "hIDtXPNvpU"
+weight = 4
+
+[[main]]
 pre = "link"
 name = "Resume"
 url = "https://drive.google.com/file/d/16b0HRFwY3Y7WTN1iESdvgO_IM4gZLNZm/view?usp=sharing"
 identifier = "SzfrNuNCmZ"
-weight = 4
+weight = 5
 
 [[main]]
 pre = "github"
 url = "https://github.com/utrodus"
 identifier = "a2y3RYhNGO"
-weight = 100
+weight = 6
 
 [[main]]
 pre = "linkedin"
 url = "https://www.linkedin.com/in/utrodus-said/"
 identifier = "ghzZP893da"
-weight = 200
-
-
-
+weight = 7
 
 
 [[footer]]
 none = "none"
-
