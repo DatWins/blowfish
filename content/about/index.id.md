@@ -12,15 +12,23 @@ showZenMode: false
 
 ![Utrodus Photo](utrodus.png)
 
-Halo 👋, saya **Utrodus Said Al Baqi**, seorang software engineer yang memiliki keahlian kuat dalam **Dart dan Flutter**. Saya mengkhususkan diri dalam menciptakan aplikasi yang indah dan ramah pengguna untuk **Android, iOS, dan web.**
+## Sedikit Tentang Saya
 
-Kombinasi unik antara **keahlian teknis dan kemampuan desain** yang saya miliki memastikan bahwa setiap proyek tidak hanya fungsional, tetapi juga memukau secara visual.
+Halo! 👋 **Saya Utrodus Said Al Baqi**, seorang software engineer yang memiliki passion dalam membangun aplikasi yang indah dan ramah pengguna menggunakan **Dart** dan **Flutter**.
 
-Saya berasal dari Blitar, Indonesia, dan saat ini saya tinggal di sana. Saya lebih memilih **bekerja secara remote** 👨‍💻. Hal ini memberikan fleksibilitas bagi saya untuk terus memberikan hasil kerja berkualitas tinggi, baik secara **full-time** maupun **freelance.**
+Baik itu untuk Android, iOS, atau web, saya berfokus menciptakan aplikasi yang tidak hanya tampak menarik tetapi juga **mempermudah kehidupan pengguna**.
 
-Saya adalah individu yang pekerja keras dengan tekad yang kuat untuk mencapai tujuan saya. Rasa ingin tahu saya, terutama dalam bidang teknologi, mendorong saya untuk mendalami riset dan eksperimen setiap kali ada sesuatu yang menarik perhatian saya.
+> Setiap proyek yang saya kerjakan adalah **kesempatan** untuk menciptakan teknologi yang memberikan **dampak positif**, dengan menggabungkan keterampilan teknis dan desain yang indah, menghasilkan sesuatu yang **fungsional** dan **menawan secara visual**.
 
-Meskipun saya cenderung menjadi seorang **perfeksionis** yang memiliki kelebihan dan tantangannya tersendiri, saya mengelolanya dengan memprioritaskan penyelesaian tugas terlebih dahulu, dan kemudian menangani masalah yang muncul di sepanjang jalan.
+Berasal dari **Blitar, Indonesia**, saya saat ini **bekerja secara remote** 👨‍💻. Hal ini memberi saya fleksibilitas untuk memberikan hasil berkualitas tinggi, baik untuk pekerjaan **penuh waktu** maupun proyek **freelance**.
+
+Saya adalah orang yang **pekerja keras**, **berorientasi pada tujuan**, dan selalu **penasaran** dengan teknologi baru. Saya senang mendalami riset dan eksperimen saat sesuatu menarik perhatian saya, terus belajar dan berkembang seiring berjalannya waktu.
+
+Meskipun terkadang saya **perfeksionis**, saya telah menemukan keseimbangan dengan fokus menyelesaikan pekerjaan terlebih dahulu, lalu menyempurnakannya sesuai kebutuhan.
+
+{{< lead >}}
+Mari ciptakan sesuatu yang hebat bersama!
+{{< /lead >}}
 
 
 
@@ -39,13 +47,19 @@ Meskipun saya cenderung menjadi seorang **perfeksionis** yang memiliki kelebihan
 -  **Middle Flutter Developer & Flutter Engineer** - *PT Glovory Technologies Indonesia*, ```Oct 2022 - Mar 2023 · 6 mos``` 
 -  **Flutter Developer** - *Ediide Infografika*, ```Apr 2018 - Mar 2021 · 3 yrs```
 
-
 ## Education
-- **[Universitas Nahdlatul Ulama Blitar](https://unublitar.ac.id/)** (```2018-2023```)
-  - ```Major:``` Computer Science
-  - ```Grade:``` 3.76
-  - ```Relevant Coursework```: Pengantar Logika & Pemrograman, Algoritma & Struktur Data, Pemrograman Berorientasi Objek, Java, Basis Data, Rekayasa Perangkat Lunak, Interaksi Manusia-Komputer, Pengembangan Aplikasi Mobile, Kecerdasan Buatan
-  - ```Final Year Project```: Mengembangkan aplikasi pencarian ayat Quran yang fokus pada pendekatan pencarian leksikal, semantik, dan gabungan. Proyek ini dibangun menggunakan Dart, Flutter, Python, dan FastAPI.
+
+**[Universitas Nahdlatul Ulama Blitar](https://unublitar.ac.id/)**  
+*2018 - 2023*  
+**Major:** Computer Science  
+**Grade:** 3.76
+
+### Relevant Coursework
+Pengantar Logika & Pemrograman, Algoritma & Struktur Data, Pemrograman Berorientasi Objek, Java, Basis Data, Rekayasa Perangkat Lunak, Interaksi Manusia-Komputer, Pengembangan Aplikasi Mobile, Kecerdasan Buatan
+
+### Final Year Project
+Mengembangkan aplikasi pencarian ayat Quran dengan fokus pada pendekatan pencarian leksikal, semantik, dan gabungan. Proyek ini dibangun menggunakan Dart, Flutter, Python, dan FastAPI.
+
   
 ## Perjalanan Saya
 

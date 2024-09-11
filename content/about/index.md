@@ -12,15 +12,23 @@ showZenMode: false
 
 ![Utrodus Photo](utrodus.png)
 
-Hello 👋 , **I'm Utrodus Said Al Baqi**, a software engineer with a strong proficiency in **Dart** and **Flutter**. I specialize in creating beautiful, user-friendly applications for **Android, iOS, and the web**. 
+## A Bit About Me
+Hello there! 👋 **I’m Utrodus Said Al Baqi**, a software engineer with a passion for building beautiful, user-friendly applications using **Dart** and **Flutter**. 
 
-My unique combination of technical expertise and design skills ensures that each project is not only functional but also visually stunning.
+Whether it’s for Android, iOS, or the web, I focus on creating apps that not only look great but also **make life easier for users**.
 
-Originally from **Blitar, Indonesia**, where I currently reside, I prefer **working remotely** 👨‍💻. This allows me the flexibility to continue **delivering high-quality work**, whether on a full-time or freelance basis.
+> Every project I take on is an **opportunity** to create technology that makes a **positive impact**, blending technical skill with thoughtful design to deliver something both **functional** and **visually stunning**.
 
-I am a hardworking individual with a strong determination to achieve my goals. My curiosity, particularly in **technology**, drives me to dive deep into **research** and **experimentation** whenever something intrigues me.
+Originally from **Blitar, Indonesia**, I currently **work remotely** 👨‍💻. This setup gives me the flexibility to deliver high-quality results, whether for **full-time** roles or **freelance** projects.
 
-While I tend to be a **perfectionist—an** **approach** with both its benefits and challenges—I manage it by prioritizing task **completion first**, addressing any issues that arise along the way.
+I’m **hardworking**, **goal-driven**, and always **curious** about new technology. I love diving into research and experimentation when something catches my interest, constantly learning and growing along the way.
+
+Though I tend to be a bit of a **perfectionist**, I’ve found a balance by focusing on getting things done first and fine-tuning as needed.
+
+{{< lead >}}
+Let’s create something great together!
+{{< /lead >}}
+
 
 
 ## My Skills
@@ -40,14 +48,21 @@ While I tend to be a **perfectionist—an** **approach** with both its benefits 
 -  **Flutter Developer** - *Ediide Infografika*, ```Apr 2018 - Mar 2021 · 3 yrs```
 
 
+
+
 ## Education
-- **[Nahdlatul Ulama University of Blitar](https://unublitar.ac.id/)** (```2018-2023```)
-  - ```Major:``` Computer Science
-  - ```Grade:``` 3.76
-  - ```Relevant Coursework```: Introduction to Logic & Programming, Algorithm & Data Structure, Object Oriented Programming, Java, Database, Software Engineering, Human-Computer Interaction, Mobile Application Development, Artificial Intelligence
-  - ```Final Year Project```: Developed a Quranic verse search application focusing on lexical,
-semantic, and combined search approaches. The project was built using Dart, Flutter,
-Python, and FastAPI.
+
+**[Nahdlatul Ulama University Blitar](https://unublitar.ac.id/)**  
+*2018 - 2023*  
+**Major:** Computer Science  
+**Grade:** 3.76
+
+### Relevant Coursework
+Introduction to Logic & Programming, Algorithms & Data Structures, Object-Oriented Programming, Java, Databases, Software Engineering, Human-Computer Interaction, Mobile Application Development, Artificial Intelligence
+
+### Final Year Project
+Developed a Quran verse search application focusing on lexical, semantic, and combined search approaches. This project was built using Dart, Flutter, Python, and FastAPI.
+
 
   
 ## My Journey
