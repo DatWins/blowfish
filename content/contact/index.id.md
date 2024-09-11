@@ -13,21 +13,17 @@ showZenMode: false
 
 Saya selalu terbuka untuk berkolaborasi pada proyek-proyek menarik atau mendiskusikan peluang baru. Apakah Anda memiliki pertanyaan, proposal proyek, atau hanya ingin terhubung, jangan ragu untuk menghubungi saya!
 
-> Jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan, **jangan ragu untuk mengirimkan email atau pesan melalui Telegram:**
 > - [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
 > - [t.me/said_albaqi](https://t.me/said_albaqi)
 
-
-
-> *Ingin merekrut saya? Lihat profil saya di Upwork untuk informasi lebih lanjut:*
-> 
-> {{< button href="https://www.upwork.com/freelancers/~01da67bb62a6fdc029" target="_blank" >}}
- Hire me on Upwork
-{{< /button >}}
-
-{{< alert >}}
-**Catatan:** Saya akan segera menghubungi Anda kembali, biasanya dalam **24 jam.**
+{{< alert icon="mug-hot" cardColor="#6F41BEFF" iconColor="#FFFFFFFF" textColor="#f1faee"  >}}
+Ready to hire with confidence? Visit my Upwork profile for more details and get started quickly and securely
 {{< /alert >}}
+>
+
+{{< button href="https://www.upwork.com/freelancers/~01da67bb62a6fdc029" target="_blank" >}}
+ Hire Utrodus on Upwork
+{{< /button >}}
 
 --- 
 
@@ -50,6 +46,7 @@ Saya mengkhususkan diri dalam mengembangkan aplikasi Flutter berkualitas tinggi 
 - **Optimasi Kinerja**: Meningkatkan kecepatan dan efisiensi aplikasi.
 - **Layanan Integrasi**: Menghubungkan aplikasi Anda dengan API dan layanan pihak ketiga.
 
+> Untuk detail lebih lanjut tentang layanan yang saya berikan baca [di sini](/services)
 </details>
 
 <details>

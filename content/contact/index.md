@@ -12,24 +12,20 @@ showZenMode: false
 ## Get in Touch
 
 I’m always open to collaborating on exciting projects or discussing new opportunities. Whether you have a question, a project proposal, or just want to connect, feel free to reach out!
-
-
-
-> If you're interested in collaborating or have any questions, **feel free to send me an email or a message on Telegram:**
 > - [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
 > - [t.me/said_albaqi](https://t.me/said_albaqi)
 
 
+{{< alert icon="mug-hot" cardColor="#6F41BEFF" iconColor="#FFFFFFFF" textColor="#f1faee"  >}}
+Ready to hire with confidence? Visit my Upwork profile for more details and get started quickly and securely
+{{< /alert >}}
+>
 
-> *Looking to hire me? Check out my profile on Upwork for more details:*
-> 
-> {{< button href="https://www.upwork.com/freelancers/~01da67bb62a6fdc029" target="_blank" >}}
- Hire me on Upwork
+{{< button href="https://www.upwork.com/freelancers/~01da67bb62a6fdc029" target="_blank" >}}
+ Hire Utrodus on Upwork
 {{< /button >}}
 
-{{< alert >}}
-**Note:** I’ll get back to you as soon as possible, usually within **24 hours**.
-{{< /alert >}}
+
 
 --- 
 
@@ -52,6 +48,8 @@ I specialize in developing high-quality Flutter applications for both mobile and
 - **Performance Optimization**: Enhancing app speed and efficiency.
 - **Integration Services**: Connecting your app with third-party APIs and services.
 
+> For more details about the services I provide [Read Here](/services)
+
 </details>
 
 <details>
@@ -71,7 +69,7 @@ I have 3+ years of experience working with Flutter, during which I’ve successf
 <details>
   <summary>4. Can you work as a freelancer or full-time remote worker?</summary>
 
-Yes, I am available for freelance and remote work. I have been working remotely for several years and have collaborated with several clients.
+Yes, I am available for freelance and fulltime remote work. I have been working remotely for several years and have collaborated with several clients.
 
 </details>
 
