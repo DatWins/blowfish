@@ -8,7 +8,8 @@ disableTextInHeader = false
 highlightCurrentMenuArea = true
 smartTOC = true
 defaultBackgroundImage = "background.png"
-
+mainSections = ["portfolio" ]
+secondarySections = ["posts"]
 
 [header]
 layout = "fixed"
@@ -24,16 +25,22 @@ showScrollToTop = true
 layout = "background"
 layoutBackgroundHeaderSpace = true
 homepageImage = "background.png"
-showRecent = false
-showRecentItems = 5
-showMoreLink = false
-showMoreLinkDest = "/posts"
+showRecent = true
+showRecentPosts = true
+showRecentItems = 3
+showRecentPostItems = 3
+showMoreLink = true
+showMorePostLink = true
+showMoreLinkDest = "/portfolio"
+showMorePostLinkDest = "/posts"
 cardView = true
+cardViewPost = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 
 [article]
 showDate = true
+showSummary = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
@@ -68,7 +75,7 @@ heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false
