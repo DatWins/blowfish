@@ -1,14 +1,15 @@
 [[main]]
-name = "Blog"
-pageRef = "/posts"
-identifier = "M65aSqWxzz"
-weight = 1
-
-[[main]]
 name = "Portfolio"
 pageRef = "/portfolio"
 identifier = "WVOjONkwdt"
+weight = 1
+
+[[main]]
+name = "Blog"
+pageRef = "/posts"
+identifier = "M65aSqWxzz"
 weight = 2
+
 
 [[main]]
 name = "About"
@@ -17,17 +18,18 @@ identifier = "ZsZOuvAcPO"
 weight = 3
 
 [[main]]
+name = "Hire Me"
+pageRef = "/hire-me"
+identifier = "hire-me"
+weight = 4
+
+
+[[main]]
 name = "Contact"
 pageRef = "/contact"
 identifier = "hIDtXPNvpU"
-weight = 4
-
-[[main]]
-pre = "link"
-name = "Resume"
-url = "https://drive.google.com/file/d/16b0HRFwY3Y7WTN1iESdvgO_IM4gZLNZm/view?usp=sharing"
-identifier = "SzfrNuNCmZ"
 weight = 5
+
 
 [[main]]
 pre = "github"
