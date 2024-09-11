@@ -20,7 +20,6 @@ showCopyright = true
 showThemeAttribution = true
 showAppearanceSwitcher = true
 showScrollToTop = true
-
 [homepage]
 layout = "background"
 layoutBackgroundHeaderSpace = true
@@ -91,6 +90,7 @@ excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
   showTermCount = true
+  layoutBackgroundHeaderSpace = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
@@ -101,11 +101,12 @@ excludedKinds = [ "taxonomy", "term" ]
 
 [term]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "custom" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
