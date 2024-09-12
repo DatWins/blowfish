@@ -46,10 +46,10 @@ showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
 showAuthorBottom = true
-showHero = true
+showHero = false
 heroStyle = "background" 
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
@@ -63,13 +63,13 @@ showTableOfContents = true
 showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = false
-showZenMode = true
+showZenMode = false
 showRelatedContent = true
 relatedContentLimit = 3
 # sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "facebook"]
 
 [list]
-showHero = true
+showHero = false
 heroStyle = "background" 
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false
@@ -91,7 +91,7 @@ excludedKinds = [ "taxonomy", "term" ]
 [taxonomy]
   showTermCount = true
   layoutBackgroundHeaderSpace = false
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
@@ -100,7 +100,7 @@ excludedKinds = [ "taxonomy", "term" ]
   cardView = false
 
 [term]
-  showHero = true
+  showHero = false
   heroStyle = "custom" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
