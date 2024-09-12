@@ -25,8 +25,8 @@ Dari ide hingga eksekusi, saya menawarkan layanan yang memastikan perjalanan pen
 | **Desain UI/UX, Penerjemahan Kode & Animasi** | Menerjemahkan desain kompleks menjadi aplikasi Flutter yang responsif dengan animasi yang halus.            |
 | **Pengiriman Aplikasi**                  | Menangani seluruh proses pengiriman aplikasi ke App Store dan Google Play serta pembaruan berkala.             |
 
+<br>
 
----
 ### Apa yang Orang Pikirkan tentang saya
 
 
@@ -97,14 +97,14 @@ Dari ide hingga eksekusi, saya menawarkan layanan yang memastikan perjalanan pen
 >}}
 
 
----
+<br>
 
 ### Hire Utrodus Said
 > Punya ide atau proyek menarik? Sebagai seorang Flutter developer berpengalaman, saya bisa membantu mengubah konsep Anda menjadi aplikasi yang berfungsi penuh dan dirancang dengan indah.
 > 
 > Mulai dari pengembangan hingga peluncuran, saya akan bekerja sama dengan Anda untuk memastikan proyek Anda sukses.
 
-{{< alert icon="mug-hot" cardColor="#1C0F2AFF" iconColor="#FFFFFFFF" textColor="#f1faee" >}}
+{{< alert icon="mug-hot" cardColor="#2E0A54FF" iconColor="#FFFFFFFF" textColor="#f1faee" >}}
 Silahkan cek  [Resume Saya](https://drive.google.com/file/d/16b0HRFwY3Y7WTN1iESdvgO_IM4gZLNZm/view) dan segera [Hubungi Saya](/contact/)!
 {{< /alert >}}
 
