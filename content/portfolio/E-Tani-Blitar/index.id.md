@@ -1,9 +1,11 @@
 ---
-title: "E-Tani Blitar: Meningkatkan Kesejahteraan Petani dan Masyarakat Kabupaten Blitar"
+title: "E-Tani App Blitar"
+summary: "Aplikasi E-Tani Kabupaten Blitar dikembangkan untuk mendukung kesejahteraan petani dan masyarakat di Kabupaten Blitar."
 date: 2019-10-02
 draft: false
 description: "Dapatkan informasi terkini dengan E-Tani Blitar! Pantau harga komoditas, lacak harga produsen dan konsumen, dan buat keputusan pertanian yang tepat di Kabupaten Blitar."
-projects: ["Flutter", "Android", "UI/UX Design" ]
+categories: ["Real World Projects"]
+tags: ["Flutter", "UI/UX Design"]
 ---
 
 ## Overview

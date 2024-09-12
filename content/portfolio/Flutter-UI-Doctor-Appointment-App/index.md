@@ -1,9 +1,11 @@
 ---
-title: "Flutter Doctor Appointments: Reusable UI for Doctor Appointment Booking"
+title: "Flutter Doctor Appointments"
+summary: "This is a case study focused on creating user interfaces (UI) to hone skills in building reusable widgets with Flutter."
 date: 2021-07-21
 draft: false
 description: "Explore Flutter Doctor Appointments, a reusable UI template for doctor appointment booking, perfect for developers to customize and integrate into their projects."
-projects: ["Flutter", "Android", "iOS" ]
+categories: ["Case Studies"]
+tags: ["Flutter"]
 ---
 
 

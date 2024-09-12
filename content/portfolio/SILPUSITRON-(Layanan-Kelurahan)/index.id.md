@@ -1,9 +1,11 @@
 ---
-title: "SILPUSITRON: Mempermudah Layanan Administrasi di Kecamatan"
+title: "SILPUSITRON App"
+summary: "Aplikasi SILPUSITRON merupakan aplikasi Android yang digunakan oleh petugas pelayanan di kecamatan untuk memberikan layanan surat menyurat kepada masyarakat di Kabupaten Blitar."
 date: 2019-03-04
 draft: false
 description: "Permudah layanan administrasi kecamatan dengan SILPUSITRON. Ajukan permintaan surat dan unggah dokumen hanya melalui smartphone."
-projects: ["Flutter", "Android", ]
+categories: ["Real World Projects"]
+tags: ["Flutter", "UI/UX Design"]
 
 ---
 ## Overview

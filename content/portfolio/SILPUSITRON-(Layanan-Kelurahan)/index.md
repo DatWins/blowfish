@@ -1,9 +1,12 @@
 ---
-title: "SILPUSITRON: Streamlining Sub-District Document Services"
+title: "SILPUSITRON App"
+summary: "The SILPUSITRON App is an Android application employed by service officers in sub-districts to provide mail services to the community in Blitar Regency."
 date: 2019-03-04
 draft: false
 description: "Streamline sub-district administrative services with SILPUSITRON. Handle document requests via smartphone and simplify community services effortlessly."
-projects: ["Flutter", "Android", ]
+categories: ["Real World Projects"]
+tags: ["Flutter", "UI/UX Design"]
+
 ---
 
 ## Overview

@@ -1,9 +1,11 @@
 ---
-title: "Bumi Glagah Arum: A Perfect Escape for Relaxation and Adventure"
+title: "Bumi Glagah Arum App"
+summary: "Bumi Glagah Arum is an Android app used to manage glamping and food court tourism at Bumi Perkemahan Glagah Arum in Lumajang."
 date: 2021-10-06
 draft: false
 description: "Unwind at Bumi Glagah Arum with glamping, nature, and luxury. Explore the mobile app features for shop owners, waiters, and visitors, enhancing your experience."
-projects: ["Flutter", "Android", "UI/UX Design" ]
+categories: ["Real World Projects"]
+tags: ["Flutter", "UI/UX Design", "Laravel"]
 ---
 
 
@@ -50,7 +52,9 @@ projects: ["Flutter", "Android", "UI/UX Design" ]
       </tr>        
     </tbody>
   </table>
-  
+
+Bumi Glagah Arum is an Android application used to manage glamping and food court tourism at Bumi Perkemahan Glagah Arum in Lumajang.
+
 [Bumi Glagah Arum](https://bumiglagaharum.com/) is an ideal place to unwind from the hustle and bustle of the city. Enjoy the serene atmosphere with your family, partner, colleagues, or alone for reflection and inspiration.
 With the breathtaking view of Gunung Semeru and the cool air, Bumi Glagah Arum combines natural beauty and luxury. The site offers glamping with tents for 2 to 4 people, as well as various facilities, including a food court, children's play area, and exciting outdoor activities.
 

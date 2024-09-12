@@ -1,10 +1,11 @@
 ---
-title: "Flutter Ayatnesia Qur'an Search: A Powerful Qur'anic Verse Search Application"
+title: "Flutter Ayatnesia Qur'an Search"
+summary: "Flutter Ayatnesia Quran Search is a mobile and backend app that aims to complete my final year project."
 date: 2023-02-09
 draft: false
 description: "Search Qur'anic verses with Flutter Ayatnesia Qur'an Search, an app using lexical and semantic similarity to deliver accurate results. Powered by the Kemenag dataset."
-projects: ["Flutter","Python", "FastAPI", "RestAPI"]
-tags: ["Android", "iOS", "Web"]
+categories: ["Case Studies"]
+tags: ["Flutter", "Python", "FastAPI", "HTML", "CSS", "JS"]
 ---
 
 
@@ -32,7 +33,7 @@ tags: ["Android", "iOS", "Web"]
         <td class="font-bold">Platform</td>
         <td class="font-bold">:</td>
         <td class="py-2">
-          Android, iOS, Web 
+          Android | iOS | Web 
           </td>
       </tr>        
       <tr class="border-b py-2">

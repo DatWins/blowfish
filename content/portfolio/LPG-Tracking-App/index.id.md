@@ -1,9 +1,11 @@
 ---
-title: "LPG Tracking: Mempermudah Pengiriman Tabung LPG Pertamina Patra Niaga"
+title: "LPG Tracking App"
+summary: "LPG Tracking adalah aplikasi mobile untuk pelacakan pengiriman tabung LPG milik Pertamina Patra Niaga."
 date: 2023-07-28
 draft: false
 description: "Kelola dan lacak pengiriman LPG dengan mudah melalui aplikasi LPG Tracking untuk Pertamina Patra Niaga. Dirancang untuk transporter dan outlet, meningkatkan transparansi pengiriman."
-projects: ["Flutter", "Android", "UI/UX Design" ]
+categories: ["Real World Projects"]
+tags: ["Flutter", "UI/UX Design"]
 ---
 
 ## Overview
@@ -50,7 +52,7 @@ projects: ["Flutter", "Android", "UI/UX Design" ]
     </tbody>
   </table>
 
-LPG Tracking adalah aplikasi pelacakan pengiriman tabung LPG milik Pertamina Patra Niaga. Client untuk proyek ini ialah Mohammad Nadzif - PT MyPro Solusindo Informatika sebagai vendor dari Pertamina Patra Niaga. 
+LPG Tracking adalah aplikasi mobile untuk pelacakan pengiriman tabung LPG milik Pertamina Patra Niaga. Client untuk proyek ini ialah Mohammad Nadzif - PT MyPro Solusindo Informatika sebagai vendor dari Pertamina Patra Niaga. 
 
 Dalam proyek ini, PT MyPro Solusindo Informatika bertanggung jawab untuk menyediakan solusi teknologi yang dapat meningkatkan efisiensi dan transparansi dalam pelacakan dan pengiriman LPG. 
 

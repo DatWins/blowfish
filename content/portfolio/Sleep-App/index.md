@@ -1,9 +1,11 @@
 ---
-title: "Flutter Sleep App: Relax and Improve Sleep with Personalized Ambient Sounds"
+title: "Flutter Sleep App - Cross-Platform & Responsive"
+summary: "A case study detailing the development of a responsive cross-platform application using Flutter for Android, iOS, and Web."
 date: 2022-06-04
 draft: false
 description: "Relax with the Flutter Sleep App's customizable ambient sounds. Create your own soothing environment and improve sleep quality with this Flutter-based app."
-projects: ["Flutter", "Android","iOS", "Web",]
+categories: ["Case Studies"]
+tags: ["Flutter"]
 ---
 
 

@@ -1,9 +1,11 @@
 ---
-title: "E-Tani Blitar: Empowering Farmers and Communities in Blitar Regency"
+title: "E-Tani App Blitar"
+summary: "Enterprise Pertanian Kabupaten Blitar application has been developed to support the welfare of farmers and communities in the Blitar Regency."
 date: 2019-10-02
 draft: false
 description: "Stay updated with E-Tani Blitar! Get the latest commodity prices, track producer and consumer prices, and make informed farming decisions in Blitar Regency."
-projects: ["Flutter", "Android", "UI/UX Design" ]
+categories: ["Real World Projects"]
+tags: ["Flutter", "UI/UX Design"]
 ---
 
 ## Overview

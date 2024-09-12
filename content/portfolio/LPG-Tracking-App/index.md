@@ -1,9 +1,11 @@
 ---
-title: "LPG Tracking: Streamlining LPG Cylinder Delivery for Pertamina Patra Niaga"
+title: "LPG Tracking App"
+summary: "LPG Tracking is a mobile app for monitoring LPG cylinder shipments owned by Pertamina Patra Niaga."
 date: 2023-07-28
 draft: false
 description: "Efficiently manage and track LPG deliveries with the LPG Tracking app for Pertamina Patra Niaga. Built for transporters and outlets, enhancing delivery transparency."
-projects: ["Flutter", "Android", "UI/UX Design" ]
+categories: ["Real World Projects"]
+tags: ["Flutter", "UI/UX Design"]
 ---
 
 ## Overview
@@ -49,7 +51,8 @@ projects: ["Flutter", "Android", "UI/UX Design" ]
       </tr>        
     </tbody>
   </table>
-LPG Tracking is a tracking application for LPG cylinder deliveries owned by Pertamina Patra Niaga. The client for this project is Mohammad Nadzif - PT MyPro Solusindo Informatika, acting as a vendor for Pertamina Patra Niaga.
+
+LPG Tracking is a mobile app for tracking application for LPG cylinder deliveries owned by Pertamina Patra Niaga. The client for this project is Mohammad Nadzif - PT MyPro Solusindo Informatika, acting as a vendor for Pertamina Patra Niaga.
 
 In this project, PT MyPro Solusindo Informatika was responsible for providing technology solutions to improve efficiency and transparency in LPG tracking and delivery.
 

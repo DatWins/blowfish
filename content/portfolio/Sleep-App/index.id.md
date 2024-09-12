@@ -1,9 +1,11 @@
 ---
-title: "Flutter Sleep App: Bersantai dan Tingkatkan Kualitas Tidur dengan Suara Ambient yang Dipersonalisasi"
+title: "Flutter Sleep App - Cross-Platform & Responsive"
+summary: "Studi kasus yang telah saya lakukan untuk membuat aplikasi lintas platform responsif untuk Android, iOS dan Web dengan Flutter"
 date: 2022-06-04
 draft: false
 description: "Bersantai dengan Flutter Sleep App dan ciptakan lingkungan menenangkan melalui suara ambient yang dapat dipersonalisasi untuk meningkatkan kualitas tidur Anda."
-projects: ["Flutter", "Android","iOS", "Web",]
+categories: ["Case Studies"]
+tags: ["Flutter"]
 ---
 
 

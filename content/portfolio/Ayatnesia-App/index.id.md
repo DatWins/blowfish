@@ -1,10 +1,11 @@
 ---
-title: "Flutter Ayatnesia Qur’an Search: Aplikasi Pencarian Ayat Al-Qur’an yang Canggih"
+title: "Flutter Ayatnesia Qur’an Search"
+summary: "Flutter Ayatnesia Qur'an Search adalah aplikasi mobile dan backend yang bertujuan untuk menyelesaikan proyek tahun akhir saya."
 date: 2023-02-09
 draft: false
 description: "Cari ayat-ayat Al-Qur’an dengan Flutter Ayatnesia, aplikasi yang menggunakan kemiripan leksikal dan semantik untuk hasil pencarian akurat. Data dari Kemenag."
-projects: ["Flutter","Python", "FastAPI", "RestAPI"]
-tags: ["Android", "iOS", "Web"]
+categories: ["Case Studies"]
+tags: ["Flutter", "Python", "FastAPI", "HTML", "CSS", "JS"]
 
 ---
 
