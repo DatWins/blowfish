@@ -1,5 +1,5 @@
-<div class="border border-gray-300 rounded-lg py-0 px-6 space-x-6 mt-10">
-    <p class="italic text-gray-600 mb-0">{{ .Get "quote" }}</p>
+<div class="rounded-2xl py-2 px-6 mt-10" style="background: #000;">
+    <p class="italic text-base text-gray-600 mb-0" style="font-size: .9em; letter-spacing:0.4px;">{{ .Get "quote" }}</p>
     {{ if .Get "client_url" }}
     <a href="{{ .Get "client_url" }}" target="_blank" style="color:white;display: inline-block;">
     {{ end }}
@@ -7,8 +7,8 @@
       <div class="flex items-center mt-5 mb-5">
         <img src="{{ .Get "image" }}" alt="{{ .Get "name" }} Photo" class="nozoom rounded-full my-0 mr-5" style="width: 4rem; height: 4rem;">
         <div>
-          <p class="text-base font-semibold mt-0 mb-1">{{ .Get "name" }}</p>
-          <p class="text-sm font-semibold mt-0 mb-1">{{ .Get "company" }}</p>
+          <p class="text-sm font-semibold mt-0 mb-1">{{ .Get "name" }}</p>
+          <p class="text-sm font-light	 mt-0 mb-1">{{ .Get "company" }}</p>
         </div>
       </div>
       {{ if .Get "client_url" }}
