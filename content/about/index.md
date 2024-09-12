@@ -35,9 +35,40 @@ Let’s create something great together!
 
 <img src="flutter_logo_animated.gif" width="200" height="50"  />
 
-- **Proficient:** ```Dart```, ```Flutter```, ```State Management (BLoC, Provider, GetX, setState, Inherited Widget)```, ```Stacked Framework```, ```Architecture Patterns (Clean Architecture, MVVM, BLoC Pattern)```, ```Design Pattern```, ```Clean Code```, ```RESTful API Integration```, ```Responsive Design```, ```Flutter Animation```, ```Flutter Dev Tools```, ```Firebase```, ```Unit Testing```, ```Widget Testing```, ```Git```, ```Github```, ```Cross-platform app development```, ```Flutter Flow```
+### Proficient
 
-- **Familiar:** ```Integration Testing```, ```Continuous Integration```, ```Continuous Deployment```, ```Research and Development```, ```Technical Documentation```, ```Java```, ```Python```, ```Fast API```, ```Agile Development```, ```Project Management (Jira, Trello)```
+- `Dart`
+- `Flutter`
+- `State Management (BLoC, Provider, GetX, setState, Inherited Widget)`
+- `Stacked Framework`
+- `Architecture Patterns (Clean Architecture, MVVM, BLoC Pattern)`
+- `Design Pattern`
+- `Clean Code`
+- `RESTful API Integration`
+- `Responsive Design`
+- `Flutter Animation`
+- `Flutter Dev Tools`
+- `Firebase`
+- `Unit Testing`
+- `Widget Testing`
+- `Git`
+- `Github`
+- `Cross-platform app development`
+- `Flutter Flow`
+
+### Familiar
+
+- `Integration Testing`
+- `Continuous Integration`
+- `Continuous Deployment`
+- `Research and Development`
+- `Technical Documentation`
+- `Java`
+- `Python`
+- `Fast API`
+- `Agile Development`
+- `Project Management (Jira, Trello)`
+
 
 
 ## Work Experience
