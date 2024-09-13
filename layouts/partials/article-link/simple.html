@@ -2,7 +2,7 @@
 
 {{ $articleClasses := "flex flex-wrap article" }}
 {{ if .Site.Params.list.showCards }}
-{{ $articleClasses = delimit (slice $articleClasses "border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden") " " }}
+{{ $articleClasses = delimit (slice $articleClasses "border border-neutral-200 dark:border-neutral-700 border-2 rounded-xl overflow-hidden") " " }}
 {{ else }}
 {{ $articleClasses = delimit (slice $articleClasses "") " " }}
 {{ end }}
@@ -49,11 +49,11 @@
     {{- with $featured -}}
     {{ if or $disableImageOptimization (strings.HasSuffix $featured ".svg")}}
         {{ with . }}
-        <div class="{{ $articleImageClasses }}" style="background-image:url({{ .RelPermalink }});"></div>
+        {{/*  <div class="{{ $articleImageClasses }}" style="background-image:url({{ .RelPermalink }});"></div>  */}}
         {{ end }}
       {{ else }}
         {{ with .Resize "600x"  }}
-        <div class="{{ $articleImageClasses }}" style="background-image:url({{ .RelPermalink }});"></div>
+        {{/*  <div class="{{ $articleImageClasses }}" style="background-image:url({{ .RelPermalink }});"></div>  */}}
         {{ end }}
       {{ end }}
     {{- else -}}
@@ -68,7 +68,7 @@
         {{ with .Params.externalUrl }}
         <div>
           <div
-            class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
+            class="font-bold mb-1 text-base text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
             {{ $.Title | emojify }}
             <span class="text-xs align-top cursor-default text-neutral-400 dark:text-neutral-500">
               <span class="rtl:hidden">&#8599;</span>
@@ -77,7 +77,7 @@
           </div>
         </div>
         {{ else }}
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+        <div class="font-bold text-lg mb-0 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="{{ .RelPermalink }}">{{ .Title | emojify }}</div>
         {{ end }}
         {{ if and .Draft .Site.Params.article.showDraftLabel }}
@@ -89,12 +89,15 @@
         {{ partial "extend-article-link.html" . }}
         {{ end }}
       </div>
+     
+      {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
+      <div class="py-1 mb-2 mt-1 max-w-fit prose dark:prose-invert">
+        <p class="text-sm">
+          {{ .Summary }}
+        </p>
+      </div>
       <div class="text-sm text-neutral-500 dark:text-neutral-400">
         {{ partial "article-meta/basic.html" . }}
-      </div>
-      {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
-      <div class="py-1 max-w-fit prose dark:prose-invert">
-        {{ .Summary }}
       </div>
       {{ end }}
     </div>
