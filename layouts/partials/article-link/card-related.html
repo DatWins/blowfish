@@ -4,7 +4,7 @@
   {{ else }}
   <a href="{{ .RelPermalink }}" class="min-w-full">
     {{ end }}
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+    <div class="min-h-full rounded-md overflow-hidden  shadow-2xl	 relative">
 
       {{- with $.Params.images -}}
       {{- range first 6 . }}
@@ -41,7 +41,7 @@
       </span>
       {{ end }}
 
-      <div class="px-6 py-4">
+      <div class="px-3 py-4">
 
         {{ with .Params.externalUrl }}
         <div>
@@ -55,22 +55,22 @@
           </div>
         </div>
         {{ else }}
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+        <div class="font-bold mb-1 text-base text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="{{ .RelPermalink }}">{{ .Title | emojify }}</div>
         {{ end }}
 
         <div class="text-sm text-neutral-500 dark:text-neutral-400">
           {{ partial "article-meta/basic.html" . }}
         </div>
-
-        {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
+        {{/*  Hide Summary in related content  */}}
+        {{/*  {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
         <div class="py-1 prose dark:prose-invert">
           {{ .Summary }}
         </div>
-        {{ end }}
+        {{ end }}  */}}
       </div>
-      <div class="px-6 pt-4 pb-2">
+      {{/*  <div class="px-6 pt-4 pb-2">
 
-      </div>
+      </div>  */}}
     </div>
   </a>
