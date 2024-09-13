@@ -104,7 +104,7 @@ Dari ide hingga eksekusi, saya menawarkan layanan yang memastikan perjalanan pen
 > 
 > Mulai dari pengembangan hingga peluncuran, saya akan bekerja sama dengan Anda untuk memastikan proyek Anda sukses.
 
-{{< alert icon="mug-hot" cardColor="#2E0A54FF" iconColor="#FFFFFFFF" textColor="#f1faee" >}}
+{{< alert icon="mug-hot" cardColor="#4F188BFF" iconColor="#FFFFFFFF" textColor="#f1faee" >}}
 Silahkan cek  [Resume Saya](https://drive.google.com/file/d/16b0HRFwY3Y7WTN1iESdvgO_IM4gZLNZm/view) dan segera [Hubungi Saya](/contact/)!
 {{< /alert >}}
 

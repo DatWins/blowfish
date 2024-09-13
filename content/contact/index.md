@@ -16,34 +16,12 @@ I’m always open to collaborating on exciting projects or discussing new opport
 > - [t.me/said_albaqi](https://t.me/said_albaqi)
 
 
-{{< alert icon="mug-hot" cardColor="#2E0A54FF" iconColor="#FFFFFFFF" textColor="#f1faee"  >}}
+{{< alert icon="mug-hot" cardColor="#4F188BFF" iconColor="#FFFFFFFF" textColor="#f1faee"  >}}
 Ready to hire with confidence? Visit my Upwork profile for more details and get started quickly and securely
 {{< /alert >}}
 >
 
-<button type="button"
-  onclick="window.open('https://www.upwork.com/freelancers/~01da67bb62a6fdc029', '_blank')"
-  style="
-    text-transform: uppercase;
-    font-weight: bold;
-    background-color: #5b21b6;
-    color: #FFFFFFFF;
-    box-shadow: #C3A1FFFF 0 2px 0 0;
-    padding: 10px 8px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 14px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-color: #000000;
-    border-radius: 10px;
-    transition: background-color .2s;
-    display: flex;
-    align-items: center;
-    padding:0.45rem 1rem;
-">
- Hire Utrodus on Upwork
-</button>
+<button onclick="window.open('https://www.upwork.com/freelancers/~01da67bb62a6fdc029', '_blank')" class="hire-button" role="button">Hire Utrodus on Upwork</button>
 
 
 

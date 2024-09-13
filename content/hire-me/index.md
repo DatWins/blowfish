@@ -111,7 +111,7 @@ Got an exciting idea or project in mind? As a skilled Flutter developer, I can h
 
 From development to deployment, I’ll work closely with you to ensure your project is a success.
 
-{{< alert icon="mug-hot" cardColor="#2E0A54FF" iconColor="#FFFFFFFF" textColor="#f1faee" >}}
+{{< alert icon="mug-hot" cardColor="#4F188BFF" iconColor="#FFFFFFFF" textColor="#f1faee" >}}
 Please check out [My Resume](https://drive.google.com/file/d/16b0HRFwY3Y7WTN1iESdvgO_IM4gZLNZm/view) and [Contact Me](/contact/)!
 {{< /alert >}}
 
