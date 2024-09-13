@@ -1,12 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Utrodus Said</title>
+    <title>Tags on Flutter Developer | Flutter Engineer | Cross-platform Apps | Utrodus Said Al Baqi</title>
     <link>http://localhost:1313/id/tags/</link>
-    <description>Recent content in Tags on Utrodus Said</description>
+    <description>Recent content in Tags on Flutter Developer | Flutter Engineer | Cross-platform Apps | Utrodus Said Al Baqi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <copyright>© 2024 Utrodus Said Al Baqi</copyright>
-    <atom:link href="http://localhost:1313/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blowfish</title>
+      <link>http://localhost:1313/id/tags/blowfish/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/blowfish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/id/tags/hugo/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Websites</title>
+      <link>http://localhost:1313/id/tags/websites/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/websites/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>http://localhost:1313/id/tags/flutter/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/flutter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UI/UX Design</title>
+      <link>http://localhost:1313/id/tags/ui/ux-design/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/ui/ux-design/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>http://localhost:1313/id/tags/css/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/css/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FastAPI</title>
+      <link>http://localhost:1313/id/tags/fastapi/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/fastapi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>http://localhost:1313/id/tags/html/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/html/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JS</title>
+      <link>http://localhost:1313/id/tags/js/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/js/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/id/tags/python/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Laravel</title>
+      <link>http://localhost:1313/id/tags/laravel/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/tags/laravel/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

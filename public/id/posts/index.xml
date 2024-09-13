@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Flutter Developer | Flutter Engineer | Cross-platform Apps | Utrodus Said Al Baqi</title>
+    <link>http://localhost:1313/id/posts/</link>
+    <description>Recent content in Blog on Flutter Developer | Flutter Engineer | Cross-platform Apps | Utrodus Said Al Baqi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <copyright>© 2024 Utrodus Said Al Baqi</copyright>
+    <lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/id/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrasi Portofolio dari Gridsome ke Hugo: Solusi yang Lebih Cepat dan Sederhana</title>
+      <link>http://localhost:1313/id/posts/2024/09/moving-my-portfolio-from-gridsome-to-hugo/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/posts/2024/09/moving-my-portfolio-from-gridsome-to-hugo/</guid>
+      <description>Dalam artikel ini, saya berbagi pengalaman memindahkan portofolio dari Gridsome ke Hugo.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024/09/moving-my-portfolio-from-gridsome-to-hugo/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

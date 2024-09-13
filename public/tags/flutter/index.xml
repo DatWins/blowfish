@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flutter on Flutter Developer | Flutter Engineer | Cross-platform Apps | Utrodus Said Al Baqi</title>
+    <link>http://localhost:1313/tags/flutter/</link>
+    <description>Recent content in Flutter on Flutter Developer | Flutter Engineer | Cross-platform Apps | Utrodus Said Al Baqi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Utrodus Said Al Baqi</copyright>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LPG Tracking App</title>
+      <link>http://localhost:1313/portfolio/lpg-tracking-app/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/lpg-tracking-app/</guid>
+      <description>LPG Tracking is a mobile app for monitoring LPG cylinder shipments owned by Pertamina Patra Niaga.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/lpg-tracking-app/featured.png" />
+    </item>
+    
+    <item>
+      <title>Flutter Ayatnesia Qur&#39;an Search</title>
+      <link>http://localhost:1313/portfolio/ayatnesia-app/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/ayatnesia-app/</guid>
+      <description>Flutter Ayatnesia Quran Search is a mobile and backend app that aims to complete my final year project.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/ayatnesia-app/featured.png" />
+    </item>
+    
+    <item>
+      <title>Flutter Sleep App - Cross-Platform &amp; Responsive</title>
+      <link>http://localhost:1313/portfolio/sleep-app/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/sleep-app/</guid>
+      <description>A case study detailing the development of a responsive cross-platform application using Flutter for Android, iOS, and Web.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/sleep-app/featured.png" />
+    </item>
+    
+    <item>
+      <title>Bumi Glagah Arum App</title>
+      <link>http://localhost:1313/portfolio/bumi-glagah-arum/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/bumi-glagah-arum/</guid>
+      <description>Bumi Glagah Arum is an Android app used to manage glamping and food court tourism at Bumi Perkemahan Glagah Arum in Lumajang.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/bumi-glagah-arum/featured.png" />
+    </item>
+    
+    <item>
+      <title>Flutter Doctor Appointments</title>
+      <link>http://localhost:1313/portfolio/flutter-ui-doctor-appointment-app/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/flutter-ui-doctor-appointment-app/</guid>
+      <description>This is a case study focused on creating user interfaces (UI) to hone skills in building reusable widgets with Flutter.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/flutter-ui-doctor-appointment-app/featured.png" />
+    </item>
+    
+    <item>
+      <title>E-Tani App Blitar</title>
+      <link>http://localhost:1313/portfolio/e-tani-blitar/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/e-tani-blitar/</guid>
+      <description>Enterprise Pertanian Kabupaten Blitar application has been developed to support the welfare of farmers and communities in the Blitar Regency.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/e-tani-blitar/featured.png" />
+    </item>
+    
+    <item>
+      <title>SILPUSITRON App</title>
+      <link>http://localhost:1313/portfolio/silpusitron-layanan-kelurahan/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/silpusitron-layanan-kelurahan/</guid>
+      <description>The SILPUSITRON App is an Android application employed by service officers in sub-districts to provide mail services to the community in Blitar Regency.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/silpusitron-layanan-kelurahan/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

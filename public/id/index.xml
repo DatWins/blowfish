@@ -1,81 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Utrodus Said</title>
+    <title>Flutter Developer | Flutter Engineer | Cross-platform Apps | Utrodus Said Al Baqi</title>
     <link>http://localhost:1313/id/</link>
-    <description>Recent content on Utrodus Said</description>
+    <description>Recent content on Flutter Developer | Flutter Engineer | Cross-platform Apps | Utrodus Said Al Baqi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <copyright>© 2024 Utrodus Said Al Baqi</copyright>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrasi Portofolio dari Gridsome ke Hugo: Solusi yang Lebih Cepat dan Sederhana</title>
+      <link>http://localhost:1313/id/posts/2024/09/moving-my-portfolio-from-gridsome-to-hugo/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/posts/2024/09/moving-my-portfolio-from-gridsome-to-hugo/</guid>
+      <description>Dalam artikel ini, saya berbagi pengalaman memindahkan portofolio dari Gridsome ke Hugo.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024/09/moving-my-portfolio-from-gridsome-to-hugo/featured.png" />
+    </item>
+    
     <item>
       <title>LPG Tracking App</title>
-      <link>http://localhost:1313/id/portfolio/1723140495296-lpg-tracking-app/</link>
+      <link>http://localhost:1313/id/portfolio/lpg-tracking-app/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/id/portfolio/1723140495296-lpg-tracking-app/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723140495296-lpg-tracking-app/featured.png" />
+      <guid>http://localhost:1313/id/portfolio/lpg-tracking-app/</guid>
+      <description>LPG Tracking adalah aplikasi mobile untuk pelacakan pengiriman tabung LPG milik Pertamina Patra Niaga.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/lpg-tracking-app/featured.png" />
     </item>
     
     <item>
-      <title>Ayatnesia App</title>
-      <link>http://localhost:1313/id/portfolio/1723172640363-ayatnesia-app/</link>
+      <title>Flutter Ayatnesia Qur’an Search</title>
+      <link>http://localhost:1313/id/portfolio/ayatnesia-app/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/id/portfolio/1723172640363-ayatnesia-app/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/id/portfolio/1723172640363-ayatnesia-app/featured.id.png" />
+      <guid>http://localhost:1313/id/portfolio/ayatnesia-app/</guid>
+      <description>Flutter Ayatnesia Qur&amp;rsquo;an Search adalah aplikasi mobile dan backend yang bertujuan untuk menyelesaikan proyek tahun akhir saya.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/id/portfolio/ayatnesia-app/featured.id.png" />
     </item>
     
     <item>
-      <title>Flutter Sleep App</title>
-      <link>http://localhost:1313/id/portfolio/1723140049028-sleep-app/</link>
+      <title>Flutter Sleep App - Cross-Platform &amp; Responsive</title>
+      <link>http://localhost:1313/id/portfolio/sleep-app/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/id/portfolio/1723140049028-sleep-app/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1723140049028-sleep-app/featured.png" />
+      <guid>http://localhost:1313/id/portfolio/sleep-app/</guid>
+      <description>Studi kasus yang telah saya lakukan untuk membuat aplikasi lintas platform responsif untuk Android, iOS dan Web dengan Flutter</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/sleep-app/featured.png" />
     </item>
     
     <item>
-      <title>Bumi Glagah Arum</title>
-      <link>http://localhost:1313/id/portfolio/1722863758321-bumi-glagah-arum/</link>
+      <title>Bumi Glagah Arum App</title>
+      <link>http://localhost:1313/id/portfolio/bumi-glagah-arum/</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/id/portfolio/1722863758321-bumi-glagah-arum/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/id/portfolio/1722863758321-bumi-glagah-arum/featured.id.png" />
+      <guid>http://localhost:1313/id/portfolio/bumi-glagah-arum/</guid>
+      <description>Bumi Glagah Arum adalah aplikasi android yang digunakan untuk mengelola wisata glamping dan food court di Bumi Perkemahan Glagah Arum Lumajang</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/id/portfolio/bumi-glagah-arum/featured.id.png" />
     </item>
     
     <item>
-      <title>Flutter UI Doctor Appointment</title>
-      <link>http://localhost:1313/id/portfolio/1722854027982-flutter-ui-doctor-appointment-app/</link>
+      <title>Flutter Doctor Appointments</title>
+      <link>http://localhost:1313/id/portfolio/flutter-ui-doctor-appointment-app/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/id/portfolio/1722854027982-flutter-ui-doctor-appointment-app/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/id/portfolio/1722854027982-flutter-ui-doctor-appointment-app/featured.id.png" />
+      <guid>http://localhost:1313/id/portfolio/flutter-ui-doctor-appointment-app/</guid>
+      <description>Ini adalah case study terkait pembuatan UI yang bertujuan untuk berlatih membuat reusable widget dengan Flutter</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/id/portfolio/flutter-ui-doctor-appointment-app/featured.id.png" />
     </item>
     
     <item>
-      <title>E-Tani Blitar</title>
-      <link>http://localhost:1313/id/portfolio/1722839886521-e-tani-blitar/</link>
+      <title>E-Tani App Blitar</title>
+      <link>http://localhost:1313/id/portfolio/e-tani-blitar/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/id/portfolio/1722839886521-e-tani-blitar/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722839886521-e-tani-blitar/featured.png" />
+      <guid>http://localhost:1313/id/portfolio/e-tani-blitar/</guid>
+      <description>Aplikasi E-Tani Kabupaten Blitar dikembangkan untuk mendukung kesejahteraan petani dan masyarakat di Kabupaten Blitar.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/e-tani-blitar/featured.png" />
     </item>
     
     <item>
-      <title>SILPUSITRON (Sub-Distric Services)</title>
-      <link>http://localhost:1313/id/portfolio/1722775599519-silpusitron-layanan-kelurahan/</link>
+      <title>SILPUSITRON App</title>
+      <link>http://localhost:1313/id/portfolio/silpusitron-layanan-kelurahan/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/id/portfolio/1722775599519-silpusitron-layanan-kelurahan/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/1722775599519-silpusitron-layanan-kelurahan/featured.png" />
+      <guid>http://localhost:1313/id/portfolio/silpusitron-layanan-kelurahan/</guid>
+      <description>Aplikasi SILPUSITRON merupakan aplikasi Android yang digunakan oleh petugas pelayanan di kecamatan untuk memberikan layanan surat menyurat kepada masyarakat di Kabupaten Blitar.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/silpusitron-layanan-kelurahan/featured.png" />
     </item>
     
     <item>
@@ -94,6 +104,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/id/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🤝 Mari Kita Bekerja Sama 🤝</title>
+      <link>http://localhost:1313/id/hire-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/id/hire-me/</guid>
       <description></description>
       
     </item>
