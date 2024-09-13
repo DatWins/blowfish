@@ -1,13 +1,13 @@
 ---
 title: "Migrasi Portofolio dari Gridsome ke Hugo: Solusi yang Lebih Cepat dan Sederhana"
 type: "posts"
-summary: "Dalam artikel ini, saya berbagi pengalaman memindahkan portofolio dari Gridsome ke Hugo. Saya akan membahas kenapa Hugo lebih cepat, lebih mudah digunakan, dan bagaimana proses migrasinya berjalan lebih lancar."
+summary: "Dalam artikel ini, saya berbagi pengalaman memindahkan portofolio dari Gridsome ke Hugo."
 date: 2024-09-13
 draft: false
 description: "In this article, I share my experience migrating my portfolio from Gridsome to Hugo. I'll explain why Hugo is faster, easier to use, and how the migration process went more smoothly."
-categories: ["Career"]
+categories: ["Miscellaneous"]
 tags: ["Websites", "Hugo", "Blowfish"]
-heroStyle: background
+showHero: false
 showWordCount: true
 showZenMode: true
 showReadingTime : true
@@ -19,6 +19,9 @@ Halo 👋🏻, saya Utrodus Said Al Baqi, Seorang **Software Engineer** yang men
 Jika Anda pernah mengunjungi [utrodus.com](https://utrodus.com), mungkin Anda telah melihat beberapa perubahan besar. Baru-baru ini, saya memigrasikan situs portfolio saya dari **[Gridsome](https://gridsome.org/)** ke **[Hugo](https://gohugo.io/)**, sebuah keputusan yang didorong oleh kebutuhan praktis dan teknis.
 
 Awalnya, situs saya dibangun menggunakan **Gridsome**, sebuah static site generator yang menggunakan Vue.js. Gridsome cukup membantu dalam menampilkan proyek-proyek saya, tetapi seiring bertambahnya portfolio dan keinginan saya untuk menambahkan fitur blog, semakin sulit untuk memelihara proyek ini. 
+
+Berikut screenshot dari web portfolio yang telah saya buat dengan Gridsome:
+![old-utrodus.com](img/old-utrodus.com.png)
 
 Di sini, saya akan menjelaskan mengapa saya memilih **Hugo**, bagaimana saya mengelola proses migrasi, dan mengapa Hugo menjadi solusi yang lebih baik bagi pengembang yang mencari performa, kesederhanaan, dan skalabilitas.
 
@@ -33,6 +36,7 @@ Gridsome adalah tools yang luar biasa untuk membangun situs statis, terutama jik
 3. **Pemeliharaan**: Mengelola dependensi dan struktur Gridsome membutuhkan lebih banyak perhatian daripada yang saya bayangkan. Ini membuat saya mencari solusi yang lebih mudah untuk dikelola.
 
 ### Kenapa Hugo?
+![hugo-pict](img/hugo.png)
 
 Setelah mengeksplorasi berbagai static site generator seperti **Jekyll**, **Gatsby**, dan **Hugo**, saya menemukan bahwa **Hugo** adalah pilihan terbaik untuk kebutuhan saya. Berikut alasannya:
 
@@ -60,6 +64,7 @@ Migrasi portfolio saya dari Gridsome ke Hugo melibatkan beberapa langkah penting
 
 
 ### Kenapa Blowfish?
+![blowfish-pict](img/Blowfish.png)
 
 Tema **[Blowfish](https://blowfish.page/)** adalah faktor kunci dalam keputusan saya beralih ke Hugo. Tema ini menawarkan estetika yang bersih dan minimalis, yang menempatkan fokus pada konten tanpa gangguan yang tidak perlu. Inilah alasan mengapa Blowfish menonjol:
 
@@ -73,7 +78,7 @@ Untuk instruksi lebih lanjut tentang cara menginstal dan mengonfigurasi tema Blo
 
 Berpindah dari **[Gridsome](https://gridsome.org/)** ke **[Hugo](https://gohugo.io/)** benar-benar mengubah cara saya mengelola portfolio. Hugo lebih cepat, lebih mudah dikelola, dan menawarkan sistem manajemen konten yang sesuai dengan alur kerja saya.
 
-Tema **[Blowfish](https://blowfish.page/)**, khususnya, membuat pembuatan portfolio dan blog yang bergaya dan profesional menjadi sangat mudah. Jika Anda mencari cara untuk menyederhanakan situs Anda, saya sangat merekomendasikan untuk mencoba Hugo dan Blowfish.
+Tema **[Blowfish](https://blowfish.page/)**, khususnya, membuat pembuatan portfolio dan blog yang simple dan profesional menjadi sangat mudah. Jika Anda mencari cara untuk menyederhanakan situs Anda, saya sangat merekomendasikan untuk mencoba Hugo dan Blowfish.
 
 Saya sangat bersemangat untuk terus memperluas portfolio saya dan berbagi lebih banyak konten tanpa terbebani menjaga konfigurasi yang kompleks. Anda akan selalu dapat pembaruan terbaru di situs saya di [utrodus.com](https://utrodus.com).
 

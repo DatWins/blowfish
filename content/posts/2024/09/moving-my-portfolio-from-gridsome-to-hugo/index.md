@@ -1,25 +1,29 @@
 ---
 title: "Migrating My Portfolio from Gridsome to Hugo: A Faster, Simpler Solution"
 type: "posts"
-summary: "This article explains my decision to migrate my portfolio website from Gridsome to Hugo. I discuss the key reasons for the change, including performance, simplicity, and speed of Hugo, as well as how the migration process was smooth and the long-term benefits for content management."
+summary: "This article explains my decision to migrate my portfolio website from Gridsome to Hugo."
 date: 2024-09-13
 draft: false
 description: "Discover the reasons behind migrating my portfolio from Gridsome to Hugo. Learn how Hugo offers better performance, content management simplicity, and scalability, with an efficient and easy migration process"
-categories: ["Career"]
+categories: ["Miscellaneous"]
 tags: ["Websites", "Hugo", "Blowfish"]
-heroStyle: background
+showHero: false
 showWordCount: true
 showZenMode: true
 showReadingTime : true
 
 ---
 
-
 Hi 👋🏻, I’m Utrodus Said Al Baqi, A **software engineer** proficient in **Flutter** for cross-platform application development. 
 
 If you’ve visited [utrodus.com](https://utrodus.com), you may have noticed some significant changes. I recently migrated my portfolio site from **[Gridsome](https://gridsome.org/)** to **[Hugo](https://gohugo.io/)**, a decision driven by both practical and technical needs.
 
 Originally, my site was built with **Gridsome**, a Vue.js-powered static site generator. It served me well for showcasing my projects, but as my portfolio grew and I wanted to add a blog, maintaining the Gridsome project became increasingly cumbersome. 
+
+This is my old portfolio site built with gridsome:
+
+![old-utrodus.com](img/old-utrodus.com.png)
+
 
 Here, I’ll break down why I chose **Hugo**, how I managed the migration, and why Hugo offers a superior solution for developers seeking performance, simplicity, and scalability.
 
@@ -34,6 +38,7 @@ Gridsome is an excellent tool for static sites, especially if you're already fam
 3. **Maintenance**: Keeping up with Gridsome's dependencies and structure demanded more attention than I anticipated. This led me to seek a solution that was easier to maintain.
 
 ### Why Hugo?
+![hugo-pict](img/hugo.png)
 
 After exploring various static site generators, such as **Jekyll**, **Gatsby**, and **Hugo**, it became clear that **Hugo** was the best option for my needs. Here's why:
 
@@ -60,6 +65,8 @@ Migrating my portfolio from Gridsome to Hugo involved several key steps:
 
 ### Why Blowfish?
 
+![blowfish-pict](img/Blowfish.png)
+
 The **[Blowfish](https://blowfish.page/)** theme was a key factor in my switch to Hugo. It offers a clean, minimal aesthetic that puts the focus on content without unnecessary distractions. Here’s why Blowfish stood out:
 
 - **Ease of Customization**: Blowfish is designed to be extremely developer-friendly. It’s easy to modify and extend, which allowed me to customize the layout to perfectly fit my portfolio’s needs.
@@ -85,7 +92,5 @@ If you’d like to see the source code for my portfolio:
 ***Built with Hugo & Blowfish Theme:***
 
 {{< github repo="utrodus/utrodus.com" >}}
-
-
 
 ---
