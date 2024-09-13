@@ -15,5 +15,5 @@ secondaryLogo = "utrodus_logo_light.png"
 image = "utrodus.png"
 name = "Utrodus Said Al Baqi"
 headline = "Software engineer specializing in Flutter development"
-bio = "Flutter Developer dengan pengalaman lebih dari 3 tahun dalam mengembangkan aplikasi yang fungsional dan ramah pengguna."
+bio = "Seorang Software Engineer yang berspesialisasi dalam Flutter untuk pengembangan aplikasi lintas platform"
 links = [ { github = "https://github.com/utrodus" }, { linkedin = "https://www.linkedin.com/in/utrodus-said/" }, { telegram = "https://t.me/said_albaqi" },  { instagram = "https://www.instagram.com/utrodus/" }, { youtube = "https://www.youtube.com/@utrodus" } ]
