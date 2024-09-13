@@ -1,0 +1,10 @@
+{
+    "conventionalCommits.scopes": [
+        "content",
+        "layouts", 
+        "assets",
+        "config",
+        "static",
+        "i18n",
+    ]
+}
