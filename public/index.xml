@@ -94,7 +94,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <description>A Bit About Me # Hello there!</description>
       
     </item>
     
@@ -104,7 +104,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/contact/</guid>
-      <description></description>
+      <description>Get in Touch # I’m always open to collaborating on exciting projects or discussing new opportunities.</description>
       
     </item>
     
@@ -114,7 +114,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/hire-me/</guid>
-      <description></description>
+      <description>How I Can Help?</description>
       
     </item>
     
