@@ -1,36 +1,3 @@
-@font-face {
-    font-family: 'inter';
-    src: url('/fonts/inter.ttf');
-}
-
-@font-face {
-    font-family: 'inter-italic';
-    src: url('/fonts/inter-italic.ttf');
-}
-
-@font-face {
-    font-family: 'monaspace-krypton';
-    src: url('/fonts/monaspace-krypton.ttf');
-}
-
-html {
-    font-family: 'inter', ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
-code,
-kbd,
-samp,
-pre {
-  font-family: 'monaspace-krypton', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  /* 1 */
-  font-feature-settings: normal;
-  /* 2 */
-  font-variation-settings: normal;
-  /* 3 */
-  font-size: 1em;
-  /* 4 */
-}
-
 
 .single_hero_background {
     background: rgba(25, 25, 25, 0.833);
@@ -49,6 +16,7 @@ p.welcome-text {
     margin-right: 14rem;
     margin-left: 14rem;
 }
+
 
 @media only screen and (max-width: 1142px) {
     p.welcome-text {
@@ -76,6 +44,11 @@ p.welcome-text {
         margin-right: 0;
         margin-left: 0;
     }
+
+  img.bg-home-animated {
+      display: none;
+  }
+
 }
 
 
