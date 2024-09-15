@@ -39,7 +39,7 @@ From **idea** to **execution**, I offer services that ensure your app developmen
     quote="Utrodus Said Al Baqi, whom I call Said, was a pleasure to work with during a project at Glovory. His skills in Flutter development are exceptional, turning our initial concept into a polished, user-friendly app delivered on time. Said writes clean, maintainable code and always goes the extra mile to ensure project success. His problem-solving abilities were crucial in overcoming technical challenges, making him a valuable team member. I highly recommend Said as a reliable and skilled Flutter developer."
     name="Mochamad Fariz Al Hazmi"
     company="Mobile App Engineer"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/v1726043631/clients/Mochamad%20Fariz.jpg"
+    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/fariz"
     client_url="https://www.linkedin.com/in/alhazme/"
 >}}
 
@@ -47,7 +47,7 @@ From **idea** to **execution**, I offer services that ensure your app developmen
     quote="Utrodus turned our ideas into a functional and user-friendly app. His proactive approach and attention to detail improved our operations and enhanced our customer experience. Highly recommend his expertise!"
     name="Fison Fahmi"
     company="Bumi Perkemahan Glagah Arum"
-    image="https://res.cloudinary.com/dvhxdwwld/image/upload/v1658494586/fison_xzf1j8.png"
+    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/fison"
 >}}
 
 
@@ -56,7 +56,7 @@ From **idea** to **execution**, I offer services that ensure your app developmen
     quote="Utrodus played a crucial role in the development of our LPG Tracking application for Pertamina Patra Niaga. His expertise in both UI/UX design and mobile development ensured the project was completed efficiently and met all of our expectations. I highly recommend his skills for any tech project."
     name="Mohammad Nadzif"
     company="PT MyPro Solusindo Informatika"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/v1726043166/clients/mohammad_nadzif.jpg"
+    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/nadzif"
     client_url="https://www.linkedin.com/in/mnadzif/"
 >}}
 
@@ -64,7 +64,7 @@ From **idea** to **execution**, I offer services that ensure your app developmen
     quote="Utrodus did an incredible job delivering several essential applications like SIJAPRI, RSUD Ciawi Mobile, and SIAPDIR under tight deadlines. His ability to work quickly without compromising quality has made a real difference in how we manage information and staff. I highly recommend him for any development project"
     name="Maulana Yusril Mahendra"
     company="Employee of RSUD Ciawi, SIMRS Installation Department"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/v1726042586/clients/yusril.png"
+    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/yusril"
     client_url="https://www.instagram.com/yusril.mym"
 >}}
 
@@ -74,7 +74,7 @@ From **idea** to **execution**, I offer services that ensure your app developmen
     quote="The Smart Soil Selector mobile app project was successfully completed on time thanks to Utrodus. I highly recommend reaching out to him for your next project."
     name="Jalu Veda"
     company="Smart Soil Selector Team"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/v1726042170/clients/jalu_veda.jpg"
+    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/jalu"
 >}}
 
 
@@ -82,14 +82,14 @@ From **idea** to **execution**, I offer services that ensure your app developmen
     quote="Thanks to Utrodus, NusantaraMart has become a reliable platform for affordable and quality online shopping. His work has been crucial in helping us empower the Nahdliyin community and move towards organizational independence through technology. We’re excited about the future of this app and its potential."
     name="Chubil Maal"
     company="PCNU Kota Blitar"
-    image="https://res.cloudinary.com/dvhxdwwld/image/upload/v1658495302/chubil_lh8qe6.png"
+    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/chubil"
 >}}
 
 {{< testimonial
     quote="I have worked with Utrodus for almost three years at CV Ediide Infografika. I'm very impressed with Utrodus's ability to work on mobile application projects such as UI Implementation, API integration, and implementing clean code."
     name="Dimas Ibnu Malik"
     company="Flutter Mobile Developer"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/v1726043771/clients/dimas_ibnu_malik.jpg"
+    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/dimas"
     client_url="https://www.linkedin.com/in/dimas-ibnu-malik/"
 >}}
 
@@ -97,7 +97,7 @@ From **idea** to **execution**, I offer services that ensure your app developmen
     quote="Professional, efficient, and easy to work with. Utrodus helped us transform UI designs into fully functional mobile apps, managed the entire deployment process, and seamlessly integrated complex backend systems. I’m looking forward to more collaborations in the future."
     name="Robait Usman"
     company="CV Ediide Infografika"
-    image="https://res.cloudinary.com/dvhxdwwld/image/upload/v1658494453/robait_y01wus.png"
+    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/robait"
     client_url="https://www.linkedin.com/in/robait-usman-78085a80/?originalSubdomain=id"
 >}}
 
