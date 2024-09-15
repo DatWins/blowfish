@@ -10,7 +10,7 @@ showZenMode: false
 
 ---
 
-![Utrodus Photo](utrodus.png)
+![Foto Utrodus](utrodus.webp)
 
 ## Sedikit Tentang Saya
 

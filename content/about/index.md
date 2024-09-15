@@ -11,11 +11,11 @@ showAuthorBottom: true
 ---
 
 
-![Utrodus Photo](utrodus.png)
+![Utrodus Photo](utrodus.webp)
 
 ## A Bit About Me!
 
-Hello there! 👋 **I’m Utrodus Said Al Baqi**, a software engineer with a passion for building beautiful, user-friendly applications using **Dart** and **Flutter**. 
+Hello there! 👋 **I’m Utrodus Said Al Baqi**, a software engineer with a passion for building beautiful, user-friendly applications using **Flutter**. 
 
 Whether it’s for Android, iOS, or the web, I focus on creating apps that not only look great but also **make life easier for users**.
 
