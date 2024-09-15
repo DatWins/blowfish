@@ -8,12 +8,12 @@ displayName = "Indonesia"
 isoCode = "id"
 rtl = false
 dateFormat = "2 January 2006"
-logo = "utrodus_logo_dark.png"
+logo = "utrodus_logo_dark.webp"
 secondaryLogo = "utrodus_logo_light.png"
 description = "Jelajahi portofolio Utrodus Said Al Baqi—Flutter developer dan engineer berpengalaman. Spesialis dalam pengembangan aplikasi lintas platform (Cross-platform) dengan Flutter. Hubungi sekarang untuk hire Flutter engineer expert untuk proyek Anda!"
 
 [author]
-image = "utrodus.png"
+image = "utrodus.webp"
 name = "Utrodus Said Al Baqi"
 headline = "Software engineer specializing in Flutter development"
 bio = "Seorang Software Engineer yang berspesialisasi dalam Flutter untuk pengembangan aplikasi lintas platform"

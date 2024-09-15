@@ -8,12 +8,12 @@ displayName = "English"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-logo = "utrodus_logo_dark.png"
+logo = "utrodus_logo_dark.webp"
 secondaryLogo = "utrodus_logo_light.png"
 description = "Explore Utrodus Said Al Baqi’s portfolio—an expert Flutter developer and engineer. Specializing in building cross-platform apps with Flutter, Utrodus brings innovative solutions to software development. Connect now to hire a skilled Flutter engineer for your next project!"
 
 [author]
-image = "utrodus.png"
+image = "utrodus.webp"
 name = "Utrodus Said Al Baqi"
 headline = "Software engineer specializing in Flutter development"
 bio = "A Software Engineer specialized in Flutter for cross-platform application development"
