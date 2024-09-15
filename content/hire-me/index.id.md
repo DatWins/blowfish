@@ -1,5 +1,5 @@
 ---
-title: "🤝 Mari Kita Bekerja Sama 🤝"
+title: "🤝 Mari Kita Bekerja Sama"
 description: "Mencari pengembang Flutter yang dapat memberikan aplikasi berkualitas tinggi? Saya di sini untuk membantu! Lihat layanan yang saya tawarkan, dengarkan klien yang puas, dan hubungi kami untuk mendiskusikan bagaimana kita dapat bekerja sama."
 showDate: false
 showWordCount: false

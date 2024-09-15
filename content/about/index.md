@@ -7,12 +7,14 @@ showReadingTime: false
 showTableOfContents: true
 layoutBackgroundHeaderSpace: false
 showZenMode: false
+showAuthorBottom: true 
 ---
 
 
 ![Utrodus Photo](utrodus.png)
 
-## A Bit About Me
+## A Bit About Me!
+
 Hello there! 👋 **I’m Utrodus Said Al Baqi**, a software engineer with a passion for building beautiful, user-friendly applications using **Dart** and **Flutter**. 
 
 Whether it’s for Android, iOS, or the web, I focus on creating apps that not only look great but also **make life easier for users**.
@@ -29,54 +31,32 @@ Though I tend to be a bit of a **perfectionist**, I’ve found a balance by focu
 Let’s create something great together!
 {{< /lead >}}
 
-
-
 ## My Skills
 
-<img src="flutter_logo_animated.gif" width="200" height="50"  />
-
 ### Proficient
-
-- `Dart`
-- `Flutter`
-- `State Management (BLoC, Provider, GetX, setState, Inherited Widget)`
-- `Stacked Framework`
-- `Architecture Patterns (Clean Architecture, MVVM, BLoC Pattern)`
-- `Design Pattern`
-- `Clean Code`
-- `RESTful API Integration`
-- `Responsive Design`
-- `Flutter Animation`
-- `Flutter Dev Tools`
-- `Firebase`
-- `Unit Testing`
-- `Widget Testing`
-- `Git`
-- `Github`
-- `Cross-platform app development`
-- `Flutter Flow`
+- **Languages & Frameworks**: Dart, Flutter, Flutter Stacked Framework
+- **State Management**: BLoC, Provider, GetX, setState, Inherited Widget
+- **Architecture**: Clean Architecture, MVVM, BLoC Pattern
+- **Best Practices**: Design Patterns, Clean Code
+- **Development**: RESTful API Integration, Responsive Design, Flutter Animation, Flutter Dev Tools, Firebase
+- **Testing**: Unit Testing, Widget Testing
+- **Tools**: Git, GitHub, Flutter Flow, Visual Studio Code, Android Studio, Xcode, Postman, Firebase Console
 
 ### Familiar
+- **Languages & Frameworks**: Python, FastAPI, Django, Java
+- **Testing & Deployment**: Integration Testing, Continuous Integration, Continuous Deployment
+- **Development Process**: Agile Development, Research & Development, Technical Documentation
+- **Project Management**: Jira, Trello
 
-- `Integration Testing`
-- `Continuous Integration`
-- `Continuous Deployment`
-- `Research and Development`
-- `Technical Documentation`
-- `Java`
-- `Python`
-- `Fast API`
-- `Agile Development`
-- `Project Management (Jira, Trello)`
 
 
 
 ## Work Experience
 
--  **Freelance Flutter Developer** - *Multiple Clients*, ```Jan 2021 - Present```
--  **Freelance Flutter Engineer** - *PT Rekeningku Dotcom Indonesia*, ```Jan 2024 - Mar 2024 · 3 mos```
--  **Middle Flutter Developer & Flutter Engineer** - *PT Glovory Technologies Indonesia*, ```Oct 2022 - Mar 2023 · 6 mos``` 
--  **Flutter Developer** - *Ediide Infografika*, ```Apr 2018 - Mar 2021 · 3 yrs```
+-  **Freelance Flutter Developer** - *Multiple Clients*, Jan 2021 - Present
+-  **Freelance Flutter Engineer** - *PT Rekeningku Dotcom Indonesia*, Jan 2024 - Mar 2024 · 3 mos
+-  **Middle Flutter Developer & Flutter Engineer** - *PT Glovory Technologies Indonesia*, Oct 2022 - Mar 2023 · 6 mos 
+-  **Flutter Developer** - *Ediide Infografika*, Apr 2018 - Mar 2021 · 3 yrs
 
 
 
@@ -109,3 +89,8 @@ Developed a Quran verse search application focusing on lexical, semantic, and co
 > Outside of work, I enjoy exploring new technologies through research and unwinding by playing games on my PC or PlayStation. 
 > 
 > These activities not only help me maintain a balanced lifestyle but also bring fresh perspectives and inspiration to my professional endeavors.
+
+
+{{< alert icon="mug-hot" cardColor="#4F188BFF" iconColor="#FFFFFFFF" textColor="#f1faee"  >}}
+Let’s connect! Visit the [Hire Me](/hire-me/) page to explore how I can help.
+{{< /alert >}}
