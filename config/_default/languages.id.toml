@@ -1,7 +1,7 @@
 languageCode = "id"
 languageName = "Indonesia"
 weight = 1
-title = "Flutter Developer | Flutter Engineer | Cross-platform Apps | Utrodus Said Al Baqi"
+title = "Utrodus Said Al Baqi | Flutter Developer | Flutter Engineer | Cross-platform Apps"
 
 [params]
 displayName = "Indonesia"
@@ -13,8 +13,8 @@ secondaryLogo = "utrodus_logo_light.png"
 description = "Jelajahi portofolio Utrodus Said Al Baqi—Flutter developer dan engineer berpengalaman. Spesialis dalam pengembangan aplikasi lintas platform (Cross-platform) dengan Flutter. Hubungi sekarang untuk hire Flutter engineer expert untuk proyek Anda!"
 
 [author]
-image = "utrodus.webp"
+image = "utrodus_profile.webp"
 name = "Utrodus Said Al Baqi"
-headline = "Software engineer specializing in Flutter development"
-bio = "Seorang Software Engineer yang berspesialisasi dalam Flutter untuk pengembangan aplikasi lintas platform"
+headline = "Flutter Developer | Software Engineer | Cross-platform"
+bio = "With over 4 years of experience in Flutter app development, I specialize in creating user-focused mobile applications that boost engagement and drive business profitability."
 links = [ { github = "https://github.com/utrodus" }, { linkedin = "https://www.linkedin.com/in/utrodus-said/" }, { telegram = "https://t.me/said_albaqi" },  { instagram = "https://www.instagram.com/utrodus/" }, { youtube = "https://www.youtube.com/@utrodus" } ]
