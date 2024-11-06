@@ -23,7 +23,7 @@ showScrollToTop = true
 [homepage]
 layout = "background"
 layoutBackgroundHeaderSpace = true
-homepageImage = "lavalamp.svg"
+# homepageImage = "background.png"
 showRecent = true
 showRecentPosts = true
 showRecentItems = 3
