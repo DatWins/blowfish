@@ -45,19 +45,19 @@ p.welcome-text {
         margin-left: 0;
     }
 
-  img.bg-home-animated {
+  /* img.bg-home-animated {
       display: none;
-  }
+  } */
 
 }
 
-
 .logo {
-    background: linear-gradient(45deg, #ff7070 10%, #f13dd4 50%, #e550f1 90%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: 800;
+  background: linear-gradient(45deg, #8a51fb 10%, #e15ef3 90%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  font-size: 1.3rem;
 }
 
 p.active {
@@ -98,20 +98,79 @@ img[alt="get-it-on-googleplay"] {
 
 /* Button Styles */
 
-
-/* CSS */
 .show-more-button {
+  appearance: button;
+  background-color: #8a2198;
+  background-image: linear-gradient(180deg,rgba(255,255,255,.15),rgba(255,255,255,0));
+  border: 1px solid #8a2198;
+  border-radius: 1rem;
+  box-shadow: rgba(255,255,255,.15)0 1px inset,rgba(46,54,80,.075)0 1px 1px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.80em;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 0;
+  padding: .5rem 1.5rem;
+  text-align: center;
+  text-transform: none;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.show-more-button:focus:not(:focus-visible),
+.show-more-button:focus {
+  outline: 0;
+}
+
+.show-more-button:hover {
+  background-color: #a0397c;
+  border-color: #a0397c;
+}
+
+.show-more-button:focus {
+  background-color: #D460AC;
+  border-color: #8A2198;
+  box-shadow: rgba(255, 255, 255, 0.15) 0 1px 0 inset, rgba(46, 54, 80, 0.075) 0 1px 1px, rgba(104, 101, 235, 0.5) 0 0 0 .2rem;
+}
+
+.show-more-button:active {
+  background-color: #8A2198;
+  background-image: none;
+  border-color: #8A2198;
+  box-shadow: rgba(46, 54, 80, 0.125) 0 3px 5px inset;
+}
+
+.show-more-button:active:focus {
+  box-shadow: rgba(46, 54, 80, 0.125) 0 3px 5px inset, rgba(104, 101, 235, 0.5) 0 0 0 .2rem;
+}
+
+.show-more-button:disabled {
+  background-image: none;
+  box-shadow: none;
+  opacity: .65;
+  pointer-events: none;
+}
+
+
+.get-in-touch-btn {
   all: unset;
   width: 100px;
   height: 30px;
-  font-size: 0.8em;
+  font-size: 16px;
+  font-weight: 600;
   background: transparent;
   border: none;
   position: relative;
   color: #f0f0f0;
   cursor: pointer;
   z-index: 1;
-  padding: 10px 20px;
+  padding: 10px 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -121,8 +180,8 @@ img[alt="get-it-on-googleplay"] {
   touch-action: manipulation;
 }
 
-.show-more-button::after,
-.show-more-button::before {
+.get-in-touch-btn::after,
+.get-in-touch-btn::before {
   content: '';
   position: absolute;
   bottom: 0;
@@ -131,15 +190,15 @@ img[alt="get-it-on-googleplay"] {
   transition: all .4s;
 }
 
-.show-more-button::before {
+.get-in-touch-btn::before {
   transform: translate(0%, 0%);
   width: 100%;
   height: 100%;
-  background: #401787;
+  background: #9341dd;
   border-radius: 10px;
 }
 
-.show-more-button::after {
+.get-in-touch-btn::after {
   transform: translate(10px, 10px);
   width: 35px;
   height: 35px;
@@ -149,23 +208,24 @@ img[alt="get-it-on-googleplay"] {
   border-radius: 50px;
 }
 
-.show-more-button:hover::before {
+.get-in-touch-btn:hover::before {
   transform: translate(5%, 20%);
   width: 110%;
   height: 110%;
 }
 
-.show-more-button:hover::after {
+.get-in-touch-btn:hover::after {
   border-radius: 10px;
   transform: translate(0, 0);
   width: 100%;
   height: 100%;
 }
 
-.show-more-button:active::after {
+.get-in-touch-btn:active::after {
   transition: 0s;
   transform: translate(0, 5%);
 }
+
 
 
 .hire-button {
