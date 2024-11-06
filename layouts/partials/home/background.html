@@ -9,21 +9,22 @@
                 <div class="fixed inset-x-0 top-0" style="z-index:-10">
                     {{ $homepageImage := "" }}
                     {{ with .Site.Params.defaultBackgroundImage }}
-                        {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-                            {{ $homepageImage = resources.GetRemote . }}
-                        {{ else }}
-                            {{ $homepageImage = resources.Get . }}
-                        {{ end }}
+                    {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+                    {{ $homepageImage = resources.GetRemote . }}
+                    {{ else }}
+                    {{ $homepageImage = resources.Get . }}
+                    {{ end }}
                     {{ end }}
                     {{ with .Site.Params.homepage.homepageImage }}
-                        {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-                            {{ $homepageImage = resources.GetRemote . }}
-                        {{ else }}
-                            {{ $homepageImage = resources.Get . }}
-                        {{ end }}
+                    {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+                    {{ $homepageImage = resources.GetRemote . }}
+                    {{ else }}
+                    {{ $homepageImage = resources.Get . }}
+                    {{ end }}
                     {{ end }}
                     {{ if $homepageImage }}
-                    <img class="w-full h-[1000px] object-cover m-0 nozoom bg-home-animated" src="{{ $homepageImage.RelPermalink }}" role="presentation">
+                    <img class="w-full h-[1000px] object-cover m-0 nozoom bg-home-animated"
+                        src="{{ $homepageImage.RelPermalink }}" role="presentation">
                     <div
                         class="absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
                     </div>
@@ -32,21 +33,21 @@
                     </div>
                     {{ end }}
                 </div>
-                <div class="relative px-1 py-1 flex flex-col items-center justify-center text-center">
+                <div class="relative px-1 py-3 flex flex-col items-center justify-center text-center">
                     {{ with .Site.Author.image }}
-                        {{ $authorImage := "" }}
-                        {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-                            {{ $authorImage = resources.GetRemote . }}
-                        {{ else }}
-                            {{ $authorImage = resources.Get . }}
-                        {{ end }}
-                        {{ if $authorImage }}
-                            {{ if not $disableImageOptimization }}
-                                {{ $authorImage = $authorImage.Fill "288x288" }}
-                            {{ end }}
-                            <img class="rounded-full my-0 h-38 w-38 nozoom" width="236" height="236"
-                                alt="{{ $.Site.Author.name | default " Author" }}" src="{{ $authorImage.RelPermalink }}" />
-                        {{ end }}
+                    {{ $authorImage := "" }}
+                    {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+                    {{ $authorImage = resources.GetRemote . }}
+                    {{ else }}
+                    {{ $authorImage = resources.Get . }}
+                    {{ end }}
+                    {{ if $authorImage }}
+                    {{ if not $disableImageOptimization }}
+                    {{ $authorImage = $authorImage.Fill "288x288" }}
+                    {{ end }}
+                    <img class="rounded-full my-0 mb-5 h-32 w-32 nozoom" width="180" height="180"
+                        alt="{{ $.Site.Author.name | default " Author" }}" src="{{ $authorImage.RelPermalink }}" />
+                    {{ end }}
                     {{ end }}
                     <h1 class="mb-2 mt-0 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">
                         {{ .Site.Author.name | default .Site.Title }}
@@ -55,44 +56,46 @@
                     <h2 class="mt-2 mb-0 text-xl text-neutral-800 dark:text-neutral-300">
                         {{ . | markdownify }}
                     </h2>
-                    {{ end }}                
+                    {{ end }}
                     <div class="text-center">
-                        <p class="welcome-text text-base mt-4 mb-2 mx-30 font-semibold text-gray-800">
-                            Hey there, thanks for stopping by! This is where I showcase <a href="/portfolio"> My Portfolio</a>  and share <a href="/posts">  My Insights</a> on Software Engineering and Flutter development.
-                        </p>                                                                                                                                                                
-                        
+                        <p class="welcome-text text-base mt-4 mb-5 mx-30 font-normal text-gray-800">
+                            With <b style="color:#f098ff;">4+ years</b> of experience in <b
+                                style="color:#ce98ff;">Mobile development</b>, I develop apps that captivate
+                            users and deliver measurable results, enhancing your business's growth and success
+                        </p>
+
                         {{/*  <p class="text-sm mt-3  mb-2 text-gray-600">
                           Explore my <a href="/portfolio">  Portfolio </a> for past work or check out the <a href="/posts"> Blog </a> for insights.
                         </p>  */}}
-                        <p class="text-base mt-0 mb-0 text-gray-600">
-                           <b> Let’s connect!</b> Visit  <a href="/hire-me">the Hire Me </a> page to explore how I can help. 
-                        </p>
-                      </div>
-                    <div class="mt-1 mt-5 mb-4 text-2xl">
+
+                    </div>
+                    {{/*  <div class="mt-1 mt-5 mb-4 text-2xl">
                         {{ with .Site.Author.links }}
-                        <div class="flex flex-wrap">
-                            {{ range $links := . }}
-                            {{ range $name, $url := $links }}
-                            <a class="px-1 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="{{ $url }}" target="_blank"
-                                aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{ partial
+                    <div class="flex flex-wrap">
+                        {{ range $links := . }}
+                        {{ range $name, $url := $links }}
+                        <a class="px-1 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="{{ $url }}"
+                            target="_blank" aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{ partial
                                 "icon.html" $name }}</a>
-                            {{ end }}
-                            {{ end }}
-                        </div>
+                        {{ end }}
                         {{ end }}
                     </div>
-                    
-                       
-                      
-                    <section class="prose dark:prose-invert">{{ .Content }}</section>
-                </div>
+                    {{ end }}
+                </div> */}}
+                <a href="/contact">
+                    <button class="get-in-touch-btn mt-3 mr-3" role="button">Get In Touch</button>
+                </a>
+
+
+                <section class="prose dark:prose-invert">{{ .Content }}</section>
             </div>
         </div>
+    </div>
     </div>
 </article>
 
 
-    
+
 </section>
 
 <section>
@@ -103,7 +106,8 @@
 
 
 {{ if .Site.Params.homepage.layoutBackgroundBlur | default false }}
-<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<div id="background-blur"
+    class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
 <script>
     window.addEventListener('scroll', function (e) {
         var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
