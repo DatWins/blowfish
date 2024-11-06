@@ -11,9 +11,7 @@ showAuthorBottom: true
 ---
 
 
-![Utrodus Photo](utrodus.webp)
 
-## A Bit About Me!
 
 Hello there! 👋 **I’m Utrodus Said Al Baqi**, a software engineer with a passion for building beautiful, user-friendly applications using **Flutter**. 
 

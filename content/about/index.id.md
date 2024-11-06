@@ -10,9 +10,6 @@ showZenMode: false
 
 ---
 
-![Foto Utrodus](utrodus.webp)
-
-## Sedikit Tentang Saya
 
 Halo! 👋 **Saya Utrodus Said Al Baqi**, seorang software engineer yang memiliki passion dalam membangun aplikasi yang indah dan ramah pengguna menggunakan **Dart** dan **Flutter**.
 
