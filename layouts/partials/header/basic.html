@@ -6,7 +6,15 @@
     <div>
         <a href="{{ "" | relLangURL }}" class="flex">
             <span class="sr-only logo">{{ .Site.Title | markdownify }}</span>
-            <svg width="{{ div $logo.Width 2 }}"  viewBox="0 0 482 482" fill="none" xmlns="http://www.w3.org/2000/svg"  id="animated-logo"  class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="{{ .Site.Title }}" style="padding: 0.5rem 0;
+            {{ if eq $logo.MediaType.SubType "svg" }}
+            <span class="logo object-scale-down object-left nozoom">
+                {{ $logo.Content | safeHTML }}
+            </span>
+            {{ else }}
+            <img src="{{ $logo.RelPermalink }}" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}"
+                class="logo object-scale-down object-left nozoom" alt="{{ .Site.Title }}" style="max-width: 2.2rem;"/>
+            {{ end }}
+            {{/*  <svg width="{{ div $logo.Width 2 }}"  viewBox="0 0 482 482" fill="none" xmlns="http://www.w3.org/2000/svg"  id="animated-logo"  class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="{{ .Site.Title }}" style="padding: 0.5rem 0;
             max-width: 2rem;">
                 <path fill="white" d="M0,241A241,241 0,1,1 482,241A241,241 0,1,1 0,241" class="HWrTritA_0"></path>
                 <g filter="url(#filter0_dd_228_22)">
@@ -43,7 +51,7 @@
                 <stop offset="1" stop-color="#9B49F5"></stop>
                 </linearGradient>
                 </defs>
-                <style data-made-with="vivus-instant">.HWrTritA_0{stroke-dasharray:1515 1517;stroke-dashoffset:1516;animation:HWrTritA_draw 213ms ease-in 0ms forwards;}.HWrTritA_1{stroke-dasharray:2791 2793;stroke-dashoffset:2792;animation:HWrTritA_draw 393ms ease-in 213ms forwards;}.HWrTritA_2{stroke-dasharray:2791 2793;stroke-dashoffset:2792;animation:HWrTritA_draw 393ms ease-in 606ms forwards;}@keyframes HWrTritA_draw{100%{stroke-dashoffset:0;}}@keyframes HWrTritA_fade{0%{stroke-opacity:1;}92.3076923076923%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>
+                <style data-made-with="vivus-instant">.HWrTritA_0{stroke-dasharray:1515 1517;stroke-dashoffset:1516;animation:HWrTritA_draw 213ms ease-in 0ms forwards;}.HWrTritA_1{stroke-dasharray:2791 2793;stroke-dashoffset:2792;animation:HWrTritA_draw 393ms ease-in 213ms forwards;}.HWrTritA_2{stroke-dasharray:2791 2793;stroke-dashoffset:2792;animation:HWrTritA_draw 393ms ease-in 606ms forwards;}@keyframes HWrTritA_draw{100%{stroke-dashoffset:0;}}@keyframes HWrTritA_fade{0%{stroke-opacity:1;}92.3076923076923%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>  */}}
                 
             {{/*  <img src="assets/utrodus_logo_animated.svg" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}"
                 class="logo max-h-[3rem] max-w-[5rem] object-scale-down object-left nozoom" alt="{{ .Site.Title }}" style="padding: 0.5rem 0;
