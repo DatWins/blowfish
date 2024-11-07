@@ -8,28 +8,19 @@ weight = 1
 name = "Blog"
 pageRef = "/posts"
 identifier = "M65aSqWxzz"
-weight = 2
-
+weight = 3
 
 [[main]]
 name = "About"
 pageRef = "/about"
 identifier = "ZsZOuvAcPO"
-weight = 3
+weight = 2
 
 [[main]]
 name = "Hire Me"
 pageRef = "/hire-me"
 identifier = "hire-me"
 weight = 4
-
-
-[[main]]
-name = "Contact"
-pageRef = "/contact"
-identifier = "hIDtXPNvpU"
-weight = 5
-
 
 [[main]]
 pre = "github"
@@ -43,6 +34,12 @@ url = "https://www.linkedin.com/in/utrodus-said/"
 identifier = "ghzZP893da"
 weight = 7
 
+[[main]]
+name = "Contact Me"
+pre = "email"
+url = "mailto:contact.utrodus@gmail.com"
+identifier = "9yKxuByokC"
+weight = 5
 
 [[footer]]
 none = "none"
