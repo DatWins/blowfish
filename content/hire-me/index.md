@@ -1,5 +1,5 @@
 ---
-title: "🤝 Let's Work Together "
+title: "Hire Utrodus Said"
 description: "Looking for a Flutter developer who can deliver high-quality apps? I’m here to help! Check out the services I offer, hear from satisfied clients, and get in touch to discuss how we can work together."
 showDate: false
 showWordCount: false
@@ -7,18 +7,12 @@ showReadingTime: false
 showTableOfContents: true
 layoutBackgroundHeaderSpace: false
 showZenMode: false
+showAuthor: true
+showAuthorBottom: true
 ---
 
+## How I Can Help?
 
-
-### How I Can Help?
-<!-- <dotlottie-player 
-    src="https://lottie.host/13306023-6b6a-4994-8a86-0e94bc91c1e4/BwH1CIXDp6.json" 
-    background="transparent" 
-    speed="0.8" 
-    class="w-full max-w-[250px] sm:max-w-[250px] md:max-w-[300px] lg:max-w-[350px] h-auto" 
-    loop autoplay>
-</dotlottie-player> -->
 From **idea** to **execution**, I offer services that ensure your app development journey is smooth, efficient, and of the highest quality.
 
 | **Service**                              | **Description**                                                                                               |
@@ -31,89 +25,231 @@ From **idea** to **execution**, I offer services that ensure your app developmen
 | **UI/UX Design, Code Translation & Animations** | Turning complex designs into apps with smooth animations.                |
 | **App Deployment**                       | Managing the entire app deployment process to the App Store and Google Play, along with regular updates.       |
 
-<br>
+--- 
 
-### What People Think of me
+## Hire Utrodus Said
 
-{{< testimonial
-    quote="Utrodus Said Al Baqi, whom I call Said, was a pleasure to work with during a project at Glovory. His skills in Flutter development are exceptional, turning our initial concept into a polished, user-friendly app delivered on time. Said writes clean, maintainable code and always goes the extra mile to ensure project success. His problem-solving abilities were crucial in overcoming technical challenges, making him a valuable team member. I highly recommend Said as a reliable and skilled Flutter developer."
-    name="Mochamad Fariz Al Hazmi"
-    company="Mobile App Engineer"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/fariz"
-    client_url="https://www.linkedin.com/in/alhazme/"
->}}
+> "Let’s bring your business idea to life with a fully functional, beautifully designed app. From development to deployment, I’ll partner with you every step of the way to ensure your project’s success and deliver an app that truly resonates with your users."
+> 
+> <button onclick="window.open('https://www.upwork.com/freelancers/~01da67bb62a6fdc029', '_blank')" class="hire-button" role="button">Hire Now</button>
 
-{{< testimonial
-    quote="Utrodus turned our ideas into a functional and user-friendly app. His proactive approach and attention to detail improved our operations and enhanced our customer experience. Highly recommend his expertise!"
-    name="Fison Fahmi"
-    company="Bumi Perkemahan Glagah Arum"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/fison"
->}}
+--- 
+
+## Get in Touch
+
+I’m always open to collaborating on exciting projects or discussing new opportunities. Whether you have a question, or just want to connect, feel free to reach out!
+
+> [Linkedin](https://www.linkedin.com/in/utrodus-said/) | [Telegram](https://t.me/said_albaqi) | [Email](mailto:contact.utrodus@gmail.com)
 
 
-
-{{< testimonial
-    quote="Utrodus played a crucial role in the development of our LPG Tracking application for Pertamina Patra Niaga. His expertise in both UI/UX design and mobile development ensured the project was completed efficiently and met all of our expectations. I highly recommend his skills for any tech project."
-    name="Mohammad Nadzif"
-    company="PT MyPro Solusindo Informatika"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/nadzif"
-    client_url="https://www.linkedin.com/in/mnadzif/"
->}}
-
-{{< testimonial
-    quote="Utrodus did an incredible job delivering several essential applications like SIJAPRI, RSUD Ciawi Mobile, and SIAPDIR under tight deadlines. His ability to work quickly without compromising quality has made a real difference in how we manage information and staff. I highly recommend him for any development project"
-    name="Maulana Yusril Mahendra"
-    company="Employee of RSUD Ciawi, SIMRS Installation Department"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/yusril"
-    client_url="https://www.instagram.com/yusril.mym"
->}}
-
-
-
-{{< testimonial
-    quote="The Smart Soil Selector mobile app project was successfully completed on time thanks to Utrodus. I highly recommend reaching out to him for your next project."
-    name="Jalu Veda"
-    company="Smart Soil Selector Team"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/jalu"
->}}
-
-
-{{< testimonial
-    quote="Thanks to Utrodus, NusantaraMart has become a reliable platform for affordable and quality online shopping. His work has been crucial in helping us empower the Nahdliyin community and move towards organizational independence through technology. We’re excited about the future of this app and its potential."
-    name="Chubil Maal"
-    company="PCNU Kota Blitar"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/chubil"
->}}
-
-{{< testimonial
-    quote="I have worked with Utrodus for almost three years at CV Ediide Infografika. I'm very impressed with Utrodus's ability to work on mobile application projects such as UI Implementation, API integration, and implementing clean code."
-    name="Dimas Ibnu Malik"
-    company="Flutter Mobile Developer"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/dimas"
-    client_url="https://www.linkedin.com/in/dimas-ibnu-malik/"
->}}
-
-{{< testimonial
-    quote="Professional, efficient, and easy to work with. Utrodus helped us transform UI designs into fully functional mobile apps, managed the entire deployment process, and seamlessly integrated complex backend systems. I’m looking forward to more collaborations in the future."
-    name="Robait Usman"
-    company="CV Ediide Infografika"
-    image="https://res.cloudinary.com/dkdp2ml37/image/upload/f_auto,q_auto/v1/clients/webp/robait"
-    client_url="https://www.linkedin.com/in/robait-usman-78085a80/?originalSubdomain=id"
->}}
-
-
-
-<br>
-
-### Hire Utrodus Said
-
-Got an exciting idea or project in mind? As a skilled Flutter developer, I can help turn your concept into a fully functional, beautifully designed app.  
-
-From development to deployment, I’ll work closely with you to ensure your project is a success.
-
-{{< alert icon="mug-hot" cardColor="#4F188BFF" iconColor="#FFFFFFFF" textColor="#f1faee" >}}
-Please check out [My Resume](https://drive.google.com/file/d/16b0HRFwY3Y7WTN1iESdvgO_IM4gZLNZm/view) and [Contact Me](/contact/)!
+{{< alert icon="mug-hot" cardColor="#2C105FFF" iconColor="#FFFFFFFF" textColor="#f1faee"  >}}
+Ready to kick off your project? Head to [my Upwork profile](https://www.upwork.com/freelancers/~01da67bb62a6fdc029)
 {{< /alert >}}
+>
+
+---
 
 
+## FAQ
+
+<details>
+  <summary>1. What is this website for?</summary>
+
+This website is a place where I share my insights and writings related to software development with Dart and Flutter. It's also a platform to showcase my work in application development, allowing potential clients and collaborators to explore my portfolio and projects.
+
+</details>
+
+<details>
+  <summary>2. What services do you offer?</summary>
+
+I specialize in developing high-quality Flutter applications for both mobile and web platforms. My services include:
+
+- **Custom App Development**: Developing Apps to meet your specific business needs.
+- **App Maintenance & Support**: Ongoing support to ensure your app runs smoothly.
+- **Performance Optimization**: Enhancing app speed and efficiency.
+- **Integration Services**: Connecting your app with third-party APIs and services.
+
+> For more details about the services I provide [Read Here](/services)
+
+</details>
+
+<details>
+  <summary>3. How much your experience with Flutter?</summary>
+
+I have 4+ years of experience working with Flutter, during which I’ve successfully completed numerous projects ranging from startups to established businesses. My expertise includes:
+
+- Building responsive and scalable applications.
+- Implementing state management solutions like Provider and Bloc.
+- Integrating RESTful APIs and Firebase services.
+- Ensuring cross-platform compatibility for both iOS, Android, and Web.
+
+</details>
+
+
+
+<details>
+  <summary>4. Can you work as a freelancer or full-time remote worker?</summary>
+
+Yes, I am available for freelance and fulltime remote work. I have been working remotely for several years and have collaborated with several clients.
+
+</details>
+
+<details>
+  <summary>5. Can you work on-site in my country?</summary>
+
+Sorry ✌🏻, for now, I am only available for remote work.
+
+</details>
+
+<details>
+  <summary>6. How much is your rate to develop my project?</summary>
+
+My rate depends on the complexity and requirements of the project. After discussing your project’s specifics, I will provide a detailed quote that aligns with your needs and budget.
+
+</details>
+
+<details>
+  <summary>7. How long can you work with me?</summary>
+
+I am open to both short-term and long-term collaborations. Whether you need a quick project or ongoing support, I can adjust according to your requirements.
+
+</details>
+
+<details>
+  <summary>8. Can you guarantee job confidentiality and commit to my project?</summary>
+
+Yes, I take confidentiality seriously and can sign non-disclosure agreements (NDAs) if necessary. I am fully committed to delivering the best results for your project.
+
+</details>
+
+<details>
+  <summary>9. How do you determine your pricing?</summary>
+
+My pricing is based on the scope and complexity of the project. Factors include:
+
+- **Project Size**: Larger projects with more features may require a higher budget.
+- **Timeline**: Expedited timelines might incur additional costs.
+- **Special Requirements**: Unique functionalities or integrations can affect pricing.
+- **Maintenance Needs**: Ongoing support and updates are billed separately.
+
+I provide detailed quotes after discussing your project requirements to ensure transparency and fairness.
+
+</details>
+
+<details>
+  <summary>10. What is your typical project timeline?</summary>
+
+Project timelines vary depending on the complexity and scope. A typical Flutter app development project may take:
+
+- **Simple Apps**: 4-6 weeks
+- **Medium Complexity Apps**: 8-12 weeks
+- **Complex Apps**: 16+ weeks
+
+I always strive to deliver quality work within the agreed timeframe and keep you updated on the progress.
+
+</details>
+
+<details>
+  <summary>11. Do you provide support after the project is completed?</summary>
+
+Yes, I offer post-launch support and maintenance services to ensure your app remains up-to-date and functions smoothly. This includes:
+
+- **Bug Fixes**: Addressing any issues that arise after launch.
+- **Updates**: Implementing new features or enhancements based on your feedback.
+- **Performance Monitoring**: Ensuring optimal app performance over time.
+
+Support packages can be customized based on your needs.
+
+</details>
+
+<details>
+  <summary>12. How do you communicate during the project?</summary>
+
+Effective communication is key to a successful project. I use the following channels to stay in touch:
+
+- **Email**: For detailed updates and documentation.
+- **Messaging Apps**: Such as Slack or WhatsApp for quick queries and updates.
+- **Video Calls**: Regular meetings via Zoom or Google Meet to discuss progress and address any concerns.
+- **Project Management Tools**: Like Trello or Jira to track tasks and milestones.
+
+I’m committed to keeping you informed and involved throughout the development process.
+
+</details>
+
+<details>
+  <summary>13. What information do you need to start a project?</summary>
+
+To kickstart your project, I typically require:
+
+- **Project Brief**: An overview of your app idea and objectives.
+- **Design Assets**: Wireframes, mockups, or any existing design materials.
+- **Functional Requirements**: Detailed features and functionalities you expect.
+- **API Documentation**: If your app needs to integrate with external services.
+- **Timeline & Budget**: Your desired project timeline and budget constraints.
+
+Providing detailed information upfront helps in delivering a more accurate proposal and efficient development process.
+
+</details>
+
+<details>
+  <summary>14. How do you handle project revisions and feedback?</summary>
+
+I encourage regular feedback to ensure the project aligns with your vision. The process includes:
+
+- **Review Phases**: Scheduled points in the project to review progress and provide feedback.
+- **Revisions**: Implementing changes based on your input within the agreed scope.
+- **Flexibility**: Accommodating reasonable changes to enhance the project outcome.
+
+Clear and constructive feedback helps in achieving the best possible results.
+
+</details>
+
+<details>
+  <summary>15. Are you available for long-term projects or ongoing work?</summary>
+
+Absolutely! I’m open to both short-term and long-term collaborations. Whether you need a single app developed or ongoing support for multiple projects, I can accommodate your needs and scale accordingly.
+
+</details>
+
+<details>
+  <summary>16. How do you ensure the quality of your work?</summary>
+
+Quality is a top priority. I ensure it through:
+
+- **Code Reviews**: Regularly reviewing code for best practices and efficiency.
+- **Testing**: Comprehensive testing, including unit tests, integration tests, and user acceptance testing.
+- **Continuous Learning**: Staying updated with the latest Flutter updates and industry standards.
+- **Client Feedback**: Incorporating your feedback to refine and enhance the app.
+
+My goal is to deliver robust, reliable, and user-friendly applications that exceed your expectations.
+
+</details>
+<details>
+  <summary>17. What skills do you have and what tools do you use when working on app development projects?</summary>
+
+**Skills:**
+
+- **Proficient:** `Dart, Flutter, State Management (BLoC, Provider, GetX, setState, Inherited Widget), Stacked Framework, Architecture Patterns (Clean Architecture, MVVM, BLoC Pattern), Design Pattern, Clean Code, RESTful API Integration, Responsive Design, Flutter Animation, Flutter Dev Tools, Firebase, Unit Testing, Widget Testing, Git, Github, Cross-platform app development, Flutter Flow.`
+- **Familiar:** `Integration Testing, Continuous Integration, Continuous Deployment, Research and Development, Technical Documentation, Java, Python, Fast API, Agile Development, Project Management (Jira, Trello).`
+
+**Tools:**
+
+- `Visual Studio Code`: Used for writing and developing application code.
+- `Android Studio`: For Android app development, debugging, and emulation.
+- `Xcode`: For iOS app development and testing.
+- `Flutter Flow`: A visual design and development tool for Flutter apps.
+- `Figma`: Used for UI/UX design and prototyping.
+- `Google Chrome`: The primary browser for web app testing.
+- `Firebase Console`: For backend integration, authentication, and database management.
+- `Postman`: A tool to test and manage APIs integrated into the app.
+- `GitHub`: A platform to store, version control, and collaborate on code development.
+- `Trello and Jira`: Project management tools for tracking tasks and project progress.
+- `Slack and Zoom`: Used for communication and meetings with clients or the team.
+  
+</details>
+
+
+---
+
+Have more questions or ready to start your project? [**Contact Me**](#get-in-touch) today!
 
