@@ -56,7 +56,9 @@ Let’s create something great together!
 -  **Middle Flutter Developer & Flutter Engineer** - *PT Glovory Technologies Indonesia*, Oct 2022 - Mar 2023 · 6 mos 
 -  **Flutter Developer** - *Ediide Infografika*, Apr 2018 - Mar 2021 · 3 yrs
 
-
+{{< alert icon="mug-hot" cardColor="#27134AFF" iconColor="#FFFFFFFF" textColor="#f1faee" >}}
+✨ Explore my full experience in [My Resume](https://drive.google.com/file/d/16b0HRFwY3Y7WTN1iESdvgO_IM4gZLNZm/view)
+{{< /alert >}}
 
 
 ## Education
@@ -89,6 +91,3 @@ Developed a Quran verse search application focusing on lexical, semantic, and co
 > These activities not only help me maintain a balanced lifestyle but also bring fresh perspectives and inspiration to my professional endeavors.
 
 
-{{< alert icon="mug-hot" cardColor="#4F188BFF" iconColor="#FFFFFFFF" textColor="#f1faee"  >}}
-Let’s connect! Visit the [Hire Me](/hire-me/) page to explore how I can help.
-{{< /alert >}}
